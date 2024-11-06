@@ -1,0 +1,44 @@
+[
+  {
+    "key": "1",
+    "set-up-1": "¿Qué le dice un huevo a una sartén?",
+    "set-up-2": "",
+    "punch": "Me tienes frito",
+    "category": "short-pun"
+  },
+  {
+    "key": "2",
+    "set-up-1": "¿Qué le dice un moco a un pañuelo?",
+    "set-up-2": "",
+    "punch": "Me suenas",
+    "category": "short-pun"
+  },
+  {
+    "key": "3",
+    "set-up-1": "¿Qué le dice el 3 al 30?",
+    "set-ip-2": "",
+    "punch": "Para ser comoyo tienes que ser sincero",
+    "category": "short-pun"
+  },
+  {
+    "key": "4",
+    "set-up-1": "¿Por qué es imposible mantener una conversación conun DJ?",
+    "set-up-2": "",
+    "punch": "Porque siempre cambia de tema",
+    "category": "short-pun"
+  },
+  {
+    "key": "5",
+    "set-up-1": "¿Qué le una pared a otra?",
+    "set-up-2": "",
+    "punch": "Nos vemos en la esquina",
+    "category": "short"
+  },
+  {
+    "key": "6",
+    "set-up-1": "¿Qué hace un pez en el agua?",
+    "set-up-2": "",
+    "punch": "Nada",
+    "category": "short-pun"
+  }
+]
