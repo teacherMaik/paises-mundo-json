@@ -1,47 +1,306 @@
-[
-  {
-    "key": "1",
-    "set-up-1": "¿Qué le dice un huevo a una sartén?",
-    "set-up-2": "",
-    "punch": "Me tienes frito",
-    "category": "short-pun"
-  },
-  {
-    "key": "2",
-    "set-up-1": "¿Qué le dice un moco a un pañuelo?",
-    "set-up-2": "",
-    "punch": "Me suenas",
-    "category": "short-pun"
-  },
-  {
-    "key": "3",
-    "set-up-1": "¿Qué le dice el 3 al 30?",
-    "set-ip-2": "",
-    "punch": "Para ser comoyo tienes que ser sincero",
-    "category": "short-pun"
-  },
-  {
-    "key": "4",
-    "set-up-1": "¿Por qué es imposible mantener una conversación conun DJ?",
-    "set-up-2": "",
-    "punch": "Porque siempre cambia de tema",
-    "category": "short-pun"
-  },
-  {
-    "key": "5",
-    "set-up-1": "¿Qué le una pared a otra?",
-    "set-up-2": "",
-    "punch": "Nos vemos en la esquina",
-    "category": "short"
-  },
-  {
-    "key": "6",
-    "set-up-1": "¿Qué hace un pez en el agua?",
-    "set-up-2": "",
-    "punch": "Nada",
-    "category": "short-pun"
-  },
-  {
-    
-  }
-]
+{
+    "america-norte": [
+        {
+            "pais": "Canadá",
+            "capital": "Ottawa",
+            "población": 40097761,
+            "area": 15634410,
+            "altitud-max": 5959,
+            "paises-colindantes": [4, "Estados Unidos"]
+        },
+        {
+            "pais": "Estados Unidos",
+            "capital": "Washington D.C.",
+            "población": 335135000,
+            "area": 9831510,
+            "altitud-max": 6194,
+            "paises-colindantes": [2, "Canadá", "México"] 
+        },
+        {
+            "pais": "México",
+            "capital": "Ciudad de México",
+            "población": 129739759,
+            "area": 1964383,
+            "altitud-max": 5636,
+            "paises-colindantes": [3, "Estados Unidos", "Belice", "Guatemala"]
+        },
+        {
+            "pais": "Belice",
+            "capital": "Belmopán",
+            "población": 411106,
+            "area": 22966,
+            "altitud-max": 1124,
+            "paises-colindantes": [2, "México", "Guatemala"]
+        },
+        {
+            "pais": "Guatemala",
+            "capital": "Ciudad de Guatemala",
+            "población": 17602000,
+            "area": 108889,
+            "altitud-max": 4220,
+            "paises-colindantes": [4, "México", "Belice", "El Salvador", "Honduras"]
+        },
+        {
+            "pais": "El Salvador",
+            "capital": "San Salvador",
+            "población": 6365000,
+            "area": 21041,
+            "altitud-max": 2730,
+            "paises-colindantes": [2, "Guatemala", "Honduras"]
+        },
+        {
+            "pais": "Honduras",
+            "capital": "Tegucigalpa",
+            "población": 10475000,
+            "area": 112491,
+            "altitud-max": 2670,
+            "paises-colindantes": [3, "Guatemala", "El Salvador", "Nicaragua"]
+        },
+        {
+            "pais": "Nicaragua",
+            "capital": "Managua",
+            "población": 6823613,
+            "area": 130373,
+            "altitud-max": 2107,
+            "paises-colindantes": [2, "Honduras", "Costa Rica"]
+        },
+        {
+            "pais": "Costa Rica",
+            "capital": "San José",
+            "población": 5278000,
+            "area": 51101,
+            "altitud-max": 3820,
+            "paises-colindantes": [2, "Nicaragua", "Panamá"]
+        },
+        {
+            "pais": "Panamá",
+            "capital": "Ciudad de Panamá",
+            "población": 4453000,
+            "area": 75418,
+            "altitud-max": 3475,
+            "paises-colindantes": [2, "Costa Rica", "Colombia"]
+        },
+        {
+            "pais": "Bahamas",
+            "capital": "Nasáu",
+            "población": 339440,
+            "area": 13942,
+            "altitud-max": 63,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Cuba",
+            "capital": "La Habana",
+            "población": 11019931,
+            "area": 109883,
+            "altitud-max": 1974,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Jamaica",
+            "capital": "Kingston",
+            "población": 2839786,
+            "area": 10992,
+            "altitud-max": 2256,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Haití",
+            "capital": "Puerto Príncipe",
+            "población": 11637398,
+            "area": 27749,
+            "altitud-max": 2680,
+            "paises-colindantes": [1, "República Dominicana"]
+        },
+        {
+            "pais": "República Dominicana",
+            "capital": "Santo Domingo",
+            "población": 10709000,
+            "area": 48671,
+            "altitud-max": 3098,
+            "paises-colindantes": [1, "Haití"]
+        },
+        {
+            "pais": "San Cristobál y Nieves",
+            "capital": "Basseterre",
+            "población": 46758,
+            "area": 262,
+            "altitud-max": 1156,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Antigua y Barbuda",
+            "capital": "Saint John",
+            "población": 93316,
+            "area": 443,
+            "altitud-max": 401,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Dominica",
+            "capital": "Roseau",
+            "población": 66510,
+            "area": 73,
+            "altitud-max": 1447,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Santa Lucía",
+            "capital": "Castries",
+            "población": 179285,
+            "area": 616,
+            "altitud-max": 950,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Barbados",
+            "capital": "Bridgetown",
+            "población": 282336,
+            "area": 430,
+            "altitud-max": 336,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "San Vicente y las Granadinas",
+            "capital": "Kingstown",
+            "población": 101323,
+            "area": 380,
+            "altitud-max": 1234,
+            "paises-colindantes": [0]
+        },
+        {
+            "pais": "Granada",
+            "capital": "Saint George",
+            "población": 115000,
+            "area": 344,
+            "altitud-max": 840,
+            "paises-colindantes": [0]
+        }
+    ],
+    "america-sur": [
+        {
+            "pais": "Colombia",
+            "capital": "Bogotá",
+            "población": 52216000,
+            "area": 1141752,
+            "altitud-max": 5700,
+            "paises-colindantes": [5, "Panamá", "Ecuador", "Perú", "Brasil", "Venezuela"]
+        },
+        {
+            "pais": "Ecuador",
+            "capital": "Quito",
+            "población": 17980083,
+            "area": 256370,
+            "altitud-max": 6267,
+            "paises-colindantes": [2, "Perú", "Colombia"]
+        },
+        {
+            "pais": "Perú",
+            "capital": "Lima",
+            "población": 33845617,
+            "area": 1285220,
+            "altitud-max": 6768,
+            "paises-colindantes": [5, "Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"]
+        },
+        {
+            "pais": "Chile",
+            "capital": "Santiago",
+            "población": 19658835,
+            "area": 756106,
+            "altitud-max": 6893,
+            "paises-colindantes": [3, "Perú", "Bolivia", "Argentina"]
+        },
+        {
+            "pais": "Argentina",
+            "capital": "Buenos Aires",
+            "población": 45538401,
+            "area": 2780412,
+            "altitud-max": 6960,
+            "paises-colindantes": [5, "Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"]
+        },
+        {
+            "pais": "Uruguay",
+            "capital": "Montevideo",
+            "población": 3388081,
+            "area": 176216,
+            "altitud-max": 514,
+            "paises-colindantes": [2, "Argentina", "Brasil"]
+        },
+        {
+            "pais": "Paraguay",
+            "capital": "Asunción",
+            "población": 6844146,
+            "area": 406754,
+            "altitud-max": 842,
+            "paises-colindantes": [3, "Argentina", "Bolivia", "Brasil"]
+        },
+        {
+            "pais": "Bolivia",
+            "capital": "Sucre / La Paz",
+            "población": 12244159,
+            "area": 1098585,
+            "altitud-max": 6542,
+            "paises-colindantes": [5, "Perú", "Chile", "Argentina", "Paraguay", "Brasil"]
+        },
+        {
+            "pais": "Brasil",
+            "capital": "Brasilia",
+            "población": 211695000,
+            "area": 8515803,
+            "altitud-max": 2994,
+            "paises-colindantes": [9, "Uruguay", "Argentina", "Paraguay", "Bolivia", "Perú", "Colombia", "Venezuela", "Guyana", "Surinam"]
+        },
+        {
+            "pais": "Surinam",
+            "capital": "Paramaribo",
+            "población": 628886,
+            "area": 163820,
+            "altitud-max": 1230,
+            "paises-colindantes": [2, "Guyana", "Brasil"]
+        },
+        {
+            "pais": "Guyana",
+            "capital": "Geirgetown",
+            "población": 826353,
+            "area": 214970,
+            "altitud-max": 2750,
+            "paises-colindantes": [3, "Surinam", "Brasil", "Venezuela"]
+        },
+        {
+            "pais": "Venezuela",
+            "capital": "Caracas",
+            "población": 28300854,
+            "area": 912050,
+            "altitud-max": 4981,
+            "paises-colindantes": [3, "Colombia", "Brasil", "Guyana"]
+        },
+        {
+            "pais": "Trinidad y Tobago",
+            "capital": "Puerto España",
+            "población": 1367510,
+            "area": 5131,
+            "altitud-max": 940,
+            "paises-colindantes": [0]
+        }
+        
+    ],
+    "europa": [
+        {
+            "pais": "",
+            "capital": "",
+            "población": 339440,
+            "area": 13942,
+            "altitud-max": 63,
+            "paises-colindantes": [0]
+        }
+    ],
+    "africa": [
+
+    ],
+    "asia": [
+
+    ],
+    "oceania": [
+
+    ]
+}
