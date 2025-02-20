@@ -6,7 +6,8 @@
             "población": 40097761,
             "area": 15634410,
             "altitud-max": 5959,
-            "paises-colindantes": [4, "Estados Unidos"]
+            "paises-colindantes": [4, "Estados Unidos"],
+            "bandera": "https://flagcdn.com/256x192/ca.png"
         },
         {
             "pais": "Estados Unidos",
@@ -14,7 +15,8 @@
             "población": 335135000,
             "area": 9831510,
             "altitud-max": 6194,
-            "paises-colindantes": [2, "Canadá", "México"] 
+            "paises-colindantes": [2, "Canadá", "México"],
+            "bandera": "https://flagcdn.com/256x192/us.png"
         },
         {
             "pais": "México",
@@ -22,7 +24,8 @@
             "población": 129739759,
             "area": 1964383,
             "altitud-max": 5636,
-            "paises-colindantes": [3, "Estados Unidos", "Belice", "Guatemala"]
+            "paises-colindantes": [3, "Estados Unidos", "Belice", "Guatemala"],
+            "bandera": "https://flagcdn.com/256x192/mx.png"
         },
         {
             "pais": "Belice",
@@ -30,7 +33,8 @@
             "población": 411106,
             "area": 22966,
             "altitud-max": 1124,
-            "paises-colindantes": [2, "México", "Guatemala"]
+            "paises-colindantes": [2, "México", "Guatemala"],
+            "bandera": "https://flagcdn.com/256x192/bz.png"
         },
         {
             "pais": "Guatemala",
@@ -38,7 +42,8 @@
             "población": 17602000,
             "area": 108889,
             "altitud-max": 4220,
-            "paises-colindantes": [4, "México", "Belice", "El Salvador", "Honduras"]
+            "paises-colindantes": [4, "México", "Belice", "El Salvador", "Honduras"],
+            "bandera": "https://flagcdn.com/256x192/gt.png"
         },
         {
             "pais": "El Salvador",
@@ -46,7 +51,8 @@
             "población": 6365000,
             "area": 21041,
             "altitud-max": 2730,
-            "paises-colindantes": [2, "Guatemala", "Honduras"]
+            "paises-colindantes": [2, "Guatemala", "Honduras"],
+            "bandera": "https://flagcdn.com/256x192/sv.png"
         },
         {
             "pais": "Honduras",
@@ -54,7 +60,8 @@
             "población": 10475000,
             "area": 112491,
             "altitud-max": 2670,
-            "paises-colindantes": [3, "Guatemala", "El Salvador", "Nicaragua"]
+            "paises-colindantes": [3, "Guatemala", "El Salvador", "Nicaragua"],
+            "bandera": "https://flagcdn.com/256x192/hn.png"
         },
         {
             "pais": "Nicaragua",
@@ -62,7 +69,8 @@
             "población": 6823613,
             "area": 130373,
             "altitud-max": 2107,
-            "paises-colindantes": [2, "Honduras", "Costa Rica"]
+            "paises-colindantes": [2, "Honduras", "Costa Rica"],
+            "bandera": "https://flagcdn.com/256x192/ni.png"
         },
         {
             "pais": "Costa Rica",
@@ -70,7 +78,8 @@
             "población": 5278000,
             "area": 51101,
             "altitud-max": 3820,
-            "paises-colindantes": [2, "Nicaragua", "Panamá"]
+            "paises-colindantes": [2, "Nicaragua", "Panamá"],
+            "bandera": "https://flagcdn.com/256x192/cr.png"
         },
         {
             "pais": "Panamá",
@@ -78,7 +87,8 @@
             "población": 4453000,
             "area": 75418,
             "altitud-max": 3475,
-            "paises-colindantes": [2, "Costa Rica", "Colombia"]
+            "paises-colindantes": [2, "Costa Rica", "Colombia"],
+            "bandera": "https://flagcdn.com/256x192/pa.png"
         },
         {
             "pais": "Bahamas",
@@ -86,7 +96,8 @@
             "población": 339440,
             "area": 13942,
             "altitud-max": 63,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/bs.png"
         },
         {
             "pais": "Cuba",
@@ -94,7 +105,8 @@
             "población": 11019931,
             "area": 109883,
             "altitud-max": 1974,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/cu.png"
         },
         {
             "pais": "Jamaica",
@@ -102,7 +114,8 @@
             "población": 2839786,
             "area": 10992,
             "altitud-max": 2256,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/jm.png"
         },
         {
             "pais": "Haití",
@@ -110,7 +123,8 @@
             "población": 11637398,
             "area": 27749,
             "altitud-max": 2680,
-            "paises-colindantes": [1, "República Dominicana"]
+            "paises-colindantes": [1, "República Dominicana"],
+            "bandera": "https://flagcdn.com/256x192/ht.png"
         },
         {
             "pais": "República Dominicana",
@@ -118,7 +132,8 @@
             "población": 10709000,
             "area": 48671,
             "altitud-max": 3098,
-            "paises-colindantes": [1, "Haití"]
+            "paises-colindantes": [1, "Haití"],
+            "bandera": "https://flagcdn.com/256x192/do.png"
         },
         {
             "pais": "San Cristobál y Nieves",
@@ -126,7 +141,8 @@
             "población": 46758,
             "area": 262,
             "altitud-max": 1156,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/kn.png"
         },
         {
             "pais": "Antigua y Barbuda",
@@ -134,7 +150,8 @@
             "población": 93316,
             "area": 443,
             "altitud-max": 401,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/ag.png"
         },
         {
             "pais": "Dominica",
@@ -142,7 +159,8 @@
             "población": 66510,
             "area": 73,
             "altitud-max": 1447,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/dm.png"
         },
         {
             "pais": "Santa Lucía",
@@ -150,7 +168,8 @@
             "población": 179285,
             "area": 616,
             "altitud-max": 950,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/lc.png"
         },
         {
             "pais": "Barbados",
@@ -158,7 +177,8 @@
             "población": 282336,
             "area": 430,
             "altitud-max": 336,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/bb.png"
         },
         {
             "pais": "San Vicente y las Granadinas",
@@ -166,7 +186,8 @@
             "población": 101323,
             "area": 380,
             "altitud-max": 1234,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/vc.png"
         },
         {
             "pais": "Granada",
@@ -174,7 +195,8 @@
             "población": 115000,
             "area": 344,
             "altitud-max": 840,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/gd.png"
         }
     ],
     "america-sur": [
@@ -184,7 +206,8 @@
             "población": 52216000,
             "area": 1141752,
             "altitud-max": 5700,
-            "paises-colindantes": [5, "Panamá", "Ecuador", "Perú", "Brasil", "Venezuela"]
+            "paises-colindantes": [5, "Panamá", "Ecuador", "Perú", "Brasil", "Venezuela"],
+            "bandera": "https://flagcdn.com/256x192/co.png"
         },
         {
             "pais": "Ecuador",
@@ -192,7 +215,8 @@
             "población": 17980083,
             "area": 256370,
             "altitud-max": 6267,
-            "paises-colindantes": [2, "Perú", "Colombia"]
+            "paises-colindantes": [2, "Perú", "Colombia"],
+            "bandera": "https://flagcdn.com/256x192/ec.png"
         },
         {
             "pais": "Perú",
@@ -200,7 +224,8 @@
             "población": 33845617,
             "area": 1285220,
             "altitud-max": 6768,
-            "paises-colindantes": [5, "Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"]
+            "paises-colindantes": [5, "Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
+            "bandera": "https://flagcdn.com/256x192/pe.png"
         },
         {
             "pais": "Chile",
@@ -208,7 +233,8 @@
             "población": 19658835,
             "area": 756106,
             "altitud-max": 6893,
-            "paises-colindantes": [3, "Perú", "Bolivia", "Argentina"]
+            "paises-colindantes": [3, "Perú", "Bolivia", "Argentina"],
+            "bandera": "https://flagcdn.com/256x192/cl.png"
         },
         {
             "pais": "Argentina",
@@ -216,7 +242,8 @@
             "población": 45538401,
             "area": 2780412,
             "altitud-max": 6960,
-            "paises-colindantes": [5, "Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"]
+            "paises-colindantes": [5, "Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
+            "bandera": "https://flagcdn.com/256x192/ar.png"
         },
         {
             "pais": "Uruguay",
@@ -224,7 +251,8 @@
             "población": 3388081,
             "area": 176216,
             "altitud-max": 514,
-            "paises-colindantes": [2, "Argentina", "Brasil"]
+            "paises-colindantes": [2, "Argentina", "Brasil"],
+            "bandera": "https://flagcdn.com/256x192/uy.png"
         },
         {
             "pais": "Paraguay",
@@ -232,7 +260,8 @@
             "población": 6844146,
             "area": 406754,
             "altitud-max": 842,
-            "paises-colindantes": [3, "Argentina", "Bolivia", "Brasil"]
+            "paises-colindantes": [3, "Argentina", "Bolivia", "Brasil"],
+            "bandera": "https://flagcdn.com/256x192/py.png"
         },
         {
             "pais": "Bolivia",
@@ -240,7 +269,8 @@
             "población": 12244159,
             "area": 1098585,
             "altitud-max": 6542,
-            "paises-colindantes": [5, "Perú", "Chile", "Argentina", "Paraguay", "Brasil"]
+            "paises-colindantes": [5, "Perú", "Chile", "Argentina", "Paraguay", "Brasil"],
+            "bandera": "https://flagcdn.com/256x192/bo.png"
         },
         {
             "pais": "Brasil",
@@ -248,7 +278,8 @@
             "población": 211695000,
             "area": 8515803,
             "altitud-max": 2994,
-            "paises-colindantes": [9, "Uruguay", "Argentina", "Paraguay", "Bolivia", "Perú", "Colombia", "Venezuela", "Guyana", "Surinam"]
+            "paises-colindantes": [9, "Uruguay", "Argentina", "Paraguay", "Bolivia", "Perú", "Colombia", "Venezuela", "Guyana", "Surinam"],
+            "bandera": "https://flagcdn.com/256x192/br.png"
         },
         {
             "pais": "Surinam",
@@ -256,7 +287,8 @@
             "población": 628886,
             "area": 163820,
             "altitud-max": 1230,
-            "paises-colindantes": [2, "Guyana", "Brasil"]
+            "paises-colindantes": [2, "Guyana", "Brasil"],
+            "bandera": "https://flagcdn.com/256x192/sr.png"
         },
         {
             "pais": "Guyana",
@@ -264,7 +296,8 @@
             "población": 826353,
             "area": 214970,
             "altitud-max": 2750,
-            "paises-colindantes": [3, "Surinam", "Brasil", "Venezuela"]
+            "paises-colindantes": [3, "Surinam", "Brasil", "Venezuela"],
+            "bandera": "https://flagcdn.com/256x192/gy.png"
         },
         {
             "pais": "Venezuela",
@@ -272,7 +305,8 @@
             "población": 28300854,
             "area": 912050,
             "altitud-max": 4981,
-            "paises-colindantes": [3, "Colombia", "Brasil", "Guyana"]
+            "paises-colindantes": [3, "Colombia", "Brasil", "Guyana"],
+            "bandera": "https://flagcdn.com/256x192/ve.png"
         },
         {
             "pais": "Trinidad y Tobago",
@@ -280,7 +314,8 @@
             "población": 1367510,
             "area": 5131,
             "altitud-max": 940,
-            "paises-colindantes": [0]
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/256x192/tt.png"
         }
         
     ],
