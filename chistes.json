@@ -330,7 +330,312 @@
         }
     ],
     "africa": [
-
+        {
+            "pais": "Egipto",
+            "capital": "El Cairo",
+            "población": 105200000,
+            "area": 1002454,
+            "altitud-max": 2629,
+            "paises-colindantes": [3, "Libia", "Sudán"],
+            "bandera": "https://flagcdn.com/eg/codes.json"
+        },
+        {
+            "pais": "Libia",
+            "capital": "Trípoli",
+            "población": 7305659,
+            "area": 1759548,
+            "altitud-max": 2267,
+            "paises-colindantes": [6, "Egipto", "Sudán", "Túnez", "Argelia", "Níger", "Chad"],
+            "bandera": "https://flagcdn.com/ly/codes.json"
+        },
+        {
+            "pais": "Túnez",
+            "capital": "Túnez",
+            "población": 12200431,
+            "area": 163610,
+            "altitud-max": 1544,
+            "paises-colindantes": [2, "Libia", "Argelia"],
+            "bandera": "https://flagcdn.com/tn/codes.json"
+        },
+        {
+            "pais": "Argelia",
+            "capital": "Argel",
+            "población": 46164219,
+            "area": 2381751,
+            "altitud-max": 3003,
+            "paises-colindantes": [6, "Túnez", "Libia", "Marruecos", "Mauritania", "Malí", "Níger"],
+            "bandera": "https://flagcdn.com/dz/codes.json"
+        },
+        {
+            "pais": "Marruecos",
+            "capital": "Rabat",
+            "población": 37022000,
+            "area": 446552,
+            "altitud-max": 4167,
+            "paises-colindantes": [3, "Argelia", "Mauritania", "España"],
+            "bandera": "https://flagcdn.com/ma/codes.json"
+        },
+        {
+            "pais": "Cabo Verde",
+            "capital": "Praia",
+            "población": 522331,
+            "area": 4033,
+            "altitud-max": 2829,
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/cv/codes.json"
+        },
+        {
+            "pais": "Mauritania",
+            "capital": "Nuakchot",
+            "población": 5022441,
+            "area": 1030703,
+            "altitud-max": 915,
+            "paises-colindantes": [4, "Marruecos", "Argelia", "Malí", "Senegal"],
+            "bandera": "https://flagcdn.com/mr/codes.json"
+        },
+        {
+            "pais": "Malí",
+            "capital": "Bamako",
+            "población": 23769127,
+            "area": 1240198,
+            "altitud-max": 1155,
+            "paises-colindantes": [7, "Argelia", "Mauritania", "Senegal", "Guinea", "Costa de Marfil", "Burkina Faso", "Níger"],
+            "bandera": "https://flagcdn.com/ml/codes.json"
+        },
+        {
+            "pais": "Níger",
+            "capital": "Niamey",
+            "población": 26159867,
+            "area": 1267005,
+            "altitud-max": 2022,
+            "paises-colindantes": [7, "Libia", "Argelia", "Malí", "Burkina Faso", "Benin", "Nigeria", "Chad"],
+            "bandera": "https://flagcdn.com/ne/codes.json"
+        },
+        {
+            "pais": "Chad",
+            "capital": "Yamena",
+            "población": 19319064,
+            "area": 1284005,
+            "altitud-max": 3445,
+            "paises-colindantes": [6, "Libia", "Sudán", "Níger", "Nigeria", "Camerún", "República Centroafricana"],
+            "bandera": "https://flagcdn.com/td/codes.json"
+        },
+        {
+            "pais": "Sudán",
+            "capital": "Jartum",
+            "población": 50042791,
+            "area": 1861493,
+            "altitud-max": 3042,
+            "paises-colindantes": [7, "Egipto", "Libia", "Chad", "República Centroafricana", "Sudán del Sur", "Etipoía", "Eritrea"],
+            "bandera": "https://flagcdn.com/sd/codes.json"
+        },
+        {
+            "pais": "Sudán del Sur",
+            "capital": "Yuba",
+            "población": 11483374,
+            "area": 644332,
+            "altitud-max": 3187,
+            "paises-colindantes": [6, "Sudán", "República Democrática del Congo", "Uganda", "República Centroafricana", "Kenia", "Etipoía"],
+            "bandera": "https://flagcdn.com/ss/codes.json"
+        },
+        {
+            "pais": "Etipoía",
+            "capital": "Adis Abeba",
+            "población": 128691692,
+            "area": 1104303,
+            "altitud-max": 4550,
+            "paises-colindantes": [6, "Sudán", "Kenia", "Somalia", "Sudán del Sur", "Eritrea", "Yibuti"],
+            "bandera": "https://flagcdn.com/et/codes.json"
+        },
+        {
+            "pais": "Eritrea",
+            "capital": "Asmara",
+            "población": 3470390,
+            "area": 117602,
+            "altitud-max": 3018,
+            "paises-colindantes": [3, "Sudán", "Etipoía", "Yibuti"],
+            "bandera": "https://flagcdn.com/er/codes.json"
+        },
+        {
+            "pais": "Yibuti",
+            "capital": "Yibuti",
+            "población": 1152944,
+            "area": 23201,
+            "altitud-max": 2028,
+            "paises-colindantes": [3, "Somalia", "Etipoía", "Eritrea"],
+            "bandera": "https://flagcdn.com/dj/codes.json"
+        },
+        {
+            "pais": "Somalia",
+            "capital": "Mogadiscio",
+            "población": 18358615,
+            "area": 637661,
+            "altitud-max": 2450,
+            "paises-colindantes": [3, "Kenia", "Etipoía", "Eritrea"],
+            "bandera": "https://flagcdn.com/so/codes.json"
+        },
+        {
+            "pais": "Kenia",
+            "capital": "Nairobi",
+            "población": 55339003,
+            "area": 580370,
+            "altitud-max": 5199,
+            "paises-colindantes": [5, "Tanzania", "Uganda", "Sudán del Sur", "Etipoía", "Somalia"],
+            "bandera": "https://flagcdn.com/ke/codes.json"
+        },
+        {
+            "pais": "Uganda",
+            "capital": "Kampala",
+            "población": 48656601,
+            "area": 241551,
+            "altitud-max": 5110,
+            "paises-colindantes": [5, "Tanzania", "Ruanda", "Sudán del Sur", "Kenia", "República Democrática del Congo"],
+            "bandera": "https://flagcdn.com/ug/codes.json"
+        },
+        {
+            "pais": "Ruanda",
+            "capital": "Kigali",
+            "población": 13954471,
+            "area": 26338,
+            "altitud-max": 4519,
+            "paises-colindantes": [4, "Tanzania", "Uganda", "República Democrática del Congo", "Burundi"],
+            "bandera": "https://flagcdn.com/rw/codes.json"
+        },
+        {
+            "pais": "Burundi",
+            "capital": "Guitega",
+            "población": 13689450,
+            "area": 27835,
+            "altitud-max": 2684,
+            "paises-colindantes": [3, "Tanzania", "Ruanda", "República Democrática del Congo"],
+            "bandera": "https://flagcdn.com/bi/codes.json"
+        },
+        {
+            "pais": "Tanzania",
+            "capital": "Dodoma / Dar es-Salam",
+            "población": 66617606,
+            "area": 945091,
+            "altitud-max": 5892,
+            "paises-colindantes": [8, "Ruanda", "Uganda", "Burundi", "Kenia", "República Democrática del Congo", "Malaui", "Zambia", "Mozambique"],
+            "bandera": "https://flagcdn.com/tz/codes.json"
+        },
+        {
+            "pais": "Malaui",
+            "capital": "Lilongüe",
+            "población": 21104482,
+            "area": 118485,
+            "altitud-max": 3002,
+            "paises-colindantes": [3, "Tanzania", "Zambia", "Mozambique"],
+            "bandera": "https://flagcdn.com/mw/codes.json"
+        },
+        {
+            "pais": "Zambia",
+            "capital": "Lusaka",
+            "población": 20723965,
+            "area": 752615,
+            "altitud-max": 2329,
+            "paises-colindantes": [8, "Tanzania", "Malaui", "Mozambique", "República Democrática del Congo", "Zimbabue", "Namibia", "Angola", "Botsuana"],
+            "bandera": "https://flagcdn.com/zm/codes.json"
+        },
+        {
+            "pais": "Zimbabue",
+            "capital": "Harare",
+            "población": 16340822,
+            "area": 390758,
+            "altitud-max": 2592,
+            "paises-colindantes": [4, "Botsuana", "Zambia", "Mozambique", "Sudáfrica"],
+            "bandera": "https://flagcdn.com/zw/codes.json"
+        },
+        {
+            "pais": "Comoras",
+            "capital": "Moroni",
+            "población": 850387,
+            "area": 1862,
+            "altitud-max": 2360,
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/km/codes.json"
+        },
+        {
+            "pais": "Seychelles",
+            "capital": "Victoria",
+            "población": 100000,
+            "area": 453,
+            "altitud-max": 905,
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/sc/codes.json"
+        },
+        {
+            "pais": "Mauricio",
+            "capital": "Port Louis",
+            "población": 1261041,
+            "area": 2041,
+            "altitud-max": 828,
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/mu/codes.json"
+        },
+        {
+            "pais": "Madagascar",
+            "capital": "Antananarivo",
+            "población": 31195932,
+            "area": 587044,
+            "altitud-max": 2876,
+            "paises-colindantes": [0],
+            "bandera": "https://flagcdn.com/mg/codes.json"
+        },
+        {
+            "pais": "Mozambique",
+            "capital": "Maputo",
+            "población": 33635160,
+            "area": 801595,
+            "altitud-max": 2436,
+            "paises-colindantes": [6, "Tanzania", "Zambia", "Malaui", "Zimbabue", "Esuatini", "Sudáfrica"],
+            "bandera": "https://flagcdn.com/mz/codes.json"
+        },
+        {
+            "pais": "Esuatini",
+            "capital": "Lobamba / Mbabane",
+            "población": 1230506,
+            "area": 17363,
+            "altitud-max": 1862,
+            "paises-colindantes": [2, "Mozambique", "Sudáfrica"],
+            "bandera": "https://flagcdn.com/sz/codes.json"
+        },
+        {
+            "pais": "Lesotho",
+            "capital": "Maseru",
+            "población": 2311472,
+            "area": 30355,
+            "altitud-max": 3482,
+            "paises-colindantes": [1, "Sudáfrica"],
+            "bandera": "https://flagcdn.com/ls/codes.json"
+        },
+        {
+            "pais": "Sudáfrica",
+            "capital": "Ciudad del Cabo / Pretoria / Bloemfontein",
+            "población": 63212384,
+            "area": 1221043,
+            "altitud-max": 3450,
+            "paises-colindantes": [6, "Lesotho", "Esuatini", "Mozambique", "Zimbabue", "Botsuana", "Namibia"],
+            "bandera": "https://flagcdn.com/za/codes.json"
+        },
+        {
+            "pais": "Botsuana",
+            "capital": "Gaborone",
+            "población": 2480244,
+            "area": 581732,
+            "altitud-max": 1491,
+            "paises-colindantes": [1, "Namibia", "Sudáfrica", "Zimbabue", "Zambia"],
+            "bandera": "https://flagcdn.com/bw/codes.json"
+        },
+        {
+            "pais": "Namibia",
+            "capital": "Windhoek",
+            "población": 2928000,
+            "area": 825619,
+            "altitud-max": 2606,
+            "paises-colindantes": [4, "Sudáfrica", "Botsuana", "Zambia", "Angola"],
+            "bandera": "https://flagcdn.com/na/codes.json"
+        }
     ],
     "asia": [
 
