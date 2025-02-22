@@ -1,4 +1,244 @@
 {
+    "europa": [
+        {
+            "key": 1,
+            "pais": "Eslovenia",
+            "capital": "Liubliana",
+            "población": 2118697,
+            "area": 20140,
+            "altitud-max": 2864,
+            "paises-colindantes": {
+                "num": 4, 
+                "paises": ["Italia", "Hungría", "Austria", "Croacia"],
+                "no-colindante": "Suiza"
+            },
+            "bandera": "https://flagcdn.com/256x192/si.png"
+        },
+        {
+            "key": 2,
+            "pais": "Croacia",
+            "capital": "Zagreb",
+            "población": 3875325,
+            "area": 55960,
+            "altitud-max": 1831,
+            "paises-colindantes": {
+                "num": 5, 
+                "paises": ["Bosnia y Herzegovina", "Hungría", "Eslovenia", "Serbia", "Montenegro"],
+                "no-colindante": "República Checa"
+            },
+            "bandera": "https://flagcdn.com/256x192/hr.png"
+        },
+        {
+            "key": 3,
+            "pais": "Bosnia y Herzegovina",
+            "capital": "Sarajevo",
+            "población": 3164253,
+            "area": 51000,
+            "altitud-max": 2386,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Croacia", "Serbia", "Montenegro"],
+                "no-colindante": "Hungría"
+            },
+            "bandera": "https://flagcdn.com/256x192/ba.png"
+        },
+        {
+            "key": 4,
+            "pais": "Montenegro",
+            "capital": "Podgorica",
+            "población": 638479,
+            "area": 13450,
+            "altitud-max": 2534,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Croacia", "Serbia", "Bosnia y Herzegovina", "Albania"],
+                "no-colindante": "Grecia"
+            },
+            "bandera": "https://flagcdn.com/256x192/me.png"
+        },
+        {
+            "key": 5,
+            "pais": "Albania",
+            "capital": "Tirana",
+            "población": 2791765,
+            "area": 27400,
+            "altitud-max": 2764,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Montenegro", "Grecia", "Macedonia del Norte"],
+                "no-colindante": "Bosnia y Herzegovina"
+            },
+            "bandera": "https://flagcdn.com/256x192/al.png"
+        },
+        {
+            "key": 6,
+            "pais": "Macedonia del Norte",
+            "capital": "Skopie",
+            "población": 1823009,
+            "area": 25220,
+            "altitud-max": 2764,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Serbia", "Grecia", "Albania", "Bulgaria"],
+                "no-colindante": "Hungría"
+            },
+            "bandera": "https://flagcdn.com/256x192/mk.png"
+        },
+        {
+            "key": 7,
+            "pais": "Serbia",
+            "capital": "Belgrado",
+            "población": 6736216,
+            "area": 87460,
+            "altitud-max": 2169,
+            "paises-colindantes": {
+                "num": 8,
+                "paises": ["Hungría", "Bulgaria", "Runamía", "Croacia", "Bosnia y Herzegovina", "Montenegro", "Macedonia del Norte", "Albania"],
+                "no-colindante": "Austria"
+            },
+            "bandera": "https://flagcdn.com/256x192/rs.png"
+        },
+        {
+            "key": 8,
+            "pais": "Bulgaria",
+            "capital": "Sofía",
+            "población": 6757689,
+            "area": 108560,
+            "altitud-max": 2925,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Runamía", "Grecia", "Turquía", "Serbia", "Macedonia del Norte"],
+                "no-colindante": "Hungría"
+            },
+            "bandera": "https://flagcdn.com/256x192/bg.png"
+        },
+        {
+            "key": 9,
+            "pais": "Grecia",
+            "capital": "Atenas",
+            "población": 10047817,
+            "area": 128900,
+            "altitud-max": 2919,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Bulgaria", "Albania", "Turquía", "Macedonia del Norte"],
+                "no-colindante": "Rumanía"
+            },
+            "bandera": "https://flagcdn.com/256x192/gr.png"
+        },
+        {
+            "key": 10,
+            "pais": "Rumanía",
+            "capital": "Bucarest",
+            "población": 19015088,
+            "area": 230170,
+            "altitud-max": 2544,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Bulgaria", "Serbia", "Hungría", "Moldavia", "Ucrania"],
+                "no-colindante": "Turquía"
+            },
+            "bandera": "https://flagcdn.com/256x192/ro.png"
+        },
+        {
+            "key": 11,
+            "pais": "Hungría",
+            "capital": "Budapest",
+            "población": 9676135,
+            "area": 90530,
+            "altitud-max": 1014,
+            "paises-colindantes": {
+                "num": 7,
+                "paises": ["Eslovaquía", "Serbia", "Rumanía", "Croacia", "Ucrania", "Eslovenia", "Austria"],
+                "no-colindante": "Moldavia"
+            },
+            "bandera": "https://flagcdn.com/256x192/hu.png"
+        },
+        {
+            "key": 12,
+            "pais": "Eslovaquia",
+            "capital": "Bratislava",
+            "población": 5506760,
+            "area": 48088,
+            "altitud-max": 2655,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Polonia", "Hungría", "República Checa", "Ucrania", "Austria"],
+                "no-colindante": "Eslovenia"
+            },
+            "bandera": "https://flagcdn.com/256x192/sk.png"
+        },
+        {
+            "key": 13,
+            "pais": "República Checa",
+            "capital": "Praga",
+            "población": 10735859,
+            "area": 77240,
+            "altitud-max": 1602,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Polonia", "Alemania", "Eslovaquia", "Austria"],
+                "no-colindante": "Croacia"
+            },
+            "bandera": "https://flagcdn.com/256x192/cz.png"
+        },
+        {
+            "key": 14,
+            "pais": "Austria",
+            "capital": "Viena",
+            "población": 9120813,
+            "area": 82409,
+            "altitud-max": 3798,
+            "paises-colindantes": {
+                "num": 8,
+                "paises": ["República Checa", "Alemania", "Eslovaquia", "Hungría", "Eslovenia", "Italia", "Suiza", "Liechtenstein"],
+                "no-colindante": "Francia"
+            },
+            "bandera": "https://flagcdn.com/256x192/at.png"
+        },
+        {
+            "key": 15,
+            "pais": "Liechtenstein",
+            "capital": "Vaduz",
+            "población": 39870,
+            "area": 160,
+            "altitud-max": 2599,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Suiza", "Austria"],
+                "no-colindante": "Italia"
+            },
+            "bandera": "https://flagcdn.com/256x192/li.png"
+        },
+        {
+            "key": 16,
+            "pais": "Suiza",
+            "capital": "Berna",
+            "población": 8921981,
+            "area": 39516,
+            "altitud-max": 4634,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Alemania", "Austria", "Francia", "Liechtenstein", "Italia"],
+                "no-colindante": "Polonia"
+            },
+            "bandera": "https://flagcdn.com/256x192/ch.png"
+        },
+        {
+            "key": 17,
+            "pais": "Italia",
+            "capital": "Roma",
+            "población": 59342867,
+            "area": 294140,
+            "altitud-max": 4810,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Suiza", "Austria", "Francia", "Eslovenia", "Monaco", "Ciudad del Vaticano"],
+                "no-colindante": "Croacia"
+            },
+            "bandera": "https://flagcdn.com/256x192/it.png"
+        }
+    ],
     "america-norte": [
         {
             "pais": "Canadá",
@@ -318,16 +558,6 @@
             "bandera": "https://flagcdn.com/256x192/tt.png"
         }
         
-    ],
-    "europa": [
-        {
-            "pais": "",
-            "capital": "",
-            "población": 339440,
-            "area": 13942,
-            "altitud-max": 63,
-            "paises-colindantes": [0]
-        }
     ],
     "africa": [
         {
