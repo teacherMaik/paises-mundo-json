@@ -12,7 +12,7 @@
                 "paises": ["Italia", "Hungría", "Austria", "Croacia"],
                 "no-colindante": "Suiza"
             },
-            "bandera": "https://flagcdn.com/256x192/si.png"
+            "bandera": "https://flagcdn.com/192x144/si.webp"
         },
         {
             "key": 2,
@@ -26,7 +26,7 @@
                 "paises": ["Bosnia y Herzegovina", "Hungría", "Eslovenia", "Serbia", "Montenegro"],
                 "no-colindante": "República Checa"
             },
-            "bandera": "https://flagcdn.com/256x192/hr.png"
+            "bandera": "https://flagcdn.com/192x144/hr.webp"
         },
         {
             "key": 3,
@@ -40,7 +40,7 @@
                 "paises": ["Croacia", "Serbia", "Montenegro"],
                 "no-colindante": "Hungría"
             },
-            "bandera": "https://flagcdn.com/256x192/ba.png"
+            "bandera": "https://flagcdn.com/192x144/ba.webp"
         },
         {
             "key": 4,
@@ -54,7 +54,7 @@
                 "paises": ["Croacia", "Serbia", "Bosnia y Herzegovina", "Albania"],
                 "no-colindante": "Grecia"
             },
-            "bandera": "https://flagcdn.com/256x192/me.png"
+            "bandera": "https://flagcdn.com/192x144/me.webp"
         },
         {
             "key": 5,
@@ -68,7 +68,7 @@
                 "paises": ["Montenegro", "Grecia", "Macedonia del Norte"],
                 "no-colindante": "Bosnia y Herzegovina"
             },
-            "bandera": "https://flagcdn.com/256x192/al.png"
+            "bandera": "https://flagcdn.com/192x144/al.webp"
         },
         {
             "key": 6,
@@ -82,7 +82,7 @@
                 "paises": ["Serbia", "Grecia", "Albania", "Bulgaria"],
                 "no-colindante": "Hungría"
             },
-            "bandera": "https://flagcdn.com/256x192/mk.png"
+            "bandera": "https://flagcdn.com/192x144/mk.webp"
         },
         {
             "key": 7,
@@ -96,7 +96,7 @@
                 "paises": ["Hungría", "Bulgaria", "Runamía", "Croacia", "Bosnia y Herzegovina", "Montenegro", "Macedonia del Norte", "Albania"],
                 "no-colindante": "Austria"
             },
-            "bandera": "https://flagcdn.com/256x192/rs.png"
+            "bandera": "https://flagcdn.com/192x144/rs.webp"
         },
         {
             "key": 8,
@@ -110,7 +110,7 @@
                 "paises": ["Runamía", "Grecia", "Turquía", "Serbia", "Macedonia del Norte"],
                 "no-colindante": "Hungría"
             },
-            "bandera": "https://flagcdn.com/256x192/bg.png"
+            "bandera": "https://flagcdn.com/192x144/bg.webp"
         },
         {
             "key": 9,
@@ -124,7 +124,7 @@
                 "paises": ["Bulgaria", "Albania", "Turquía", "Macedonia del Norte"],
                 "no-colindante": "Rumanía"
             },
-            "bandera": "https://flagcdn.com/256x192/gr.png"
+            "bandera": "https://flagcdn.com/192x144/gr.webp"
         },
         {
             "key": 10,
@@ -138,7 +138,7 @@
                 "paises": ["Bulgaria", "Serbia", "Hungría", "Moldavia", "Ucrania"],
                 "no-colindante": "Turquía"
             },
-            "bandera": "https://flagcdn.com/256x192/ro.png"
+            "bandera": "https://flagcdn.com/192x144/ro.webp"
         },
         {
             "key": 11,
@@ -152,7 +152,7 @@
                 "paises": ["Eslovaquía", "Serbia", "Rumanía", "Croacia", "Ucrania", "Eslovenia", "Austria"],
                 "no-colindante": "Moldavia"
             },
-            "bandera": "https://flagcdn.com/256x192/hu.png"
+            "bandera": "https://flagcdn.com/192x144/hu.webp"
         },
         {
             "key": 12,
@@ -166,7 +166,7 @@
                 "paises": ["Polonia", "Hungría", "República Checa", "Ucrania", "Austria"],
                 "no-colindante": "Eslovenia"
             },
-            "bandera": "https://flagcdn.com/256x192/sk.png"
+            "bandera": "https://flagcdn.com/192x144/sk.webp"
         },
         {
             "key": 13,
@@ -180,7 +180,7 @@
                 "paises": ["Polonia", "Alemania", "Eslovaquia", "Austria"],
                 "no-colindante": "Croacia"
             },
-            "bandera": "https://flagcdn.com/256x192/cz.png"
+            "bandera": "https://flagcdn.com/192x144/cz.webp"
         },
         {
             "key": 14,
@@ -194,7 +194,7 @@
                 "paises": ["República Checa", "Alemania", "Eslovaquia", "Hungría", "Eslovenia", "Italia", "Suiza", "Liechtenstein"],
                 "no-colindante": "Francia"
             },
-            "bandera": "https://flagcdn.com/256x192/at.png"
+            "bandera": "https://flagcdn.com/192x144/at.webp"
         },
         {
             "key": 15,
@@ -208,7 +208,7 @@
                 "paises": ["Suiza", "Austria"],
                 "no-colindante": "Italia"
             },
-            "bandera": "https://flagcdn.com/256x192/li.png"
+            "bandera": "https://flagcdn.com/192x144/li.webp"
         },
         {
             "key": 16,
@@ -222,7 +222,7 @@
                 "paises": ["Alemania", "Austria", "Francia", "Liechtenstein", "Italia"],
                 "no-colindante": "Polonia"
             },
-            "bandera": "https://flagcdn.com/256x192/ch.png"
+            "bandera": "https://flagcdn.com/192x144/ch.webp"
         },
         {
             "key": 17,
@@ -236,7 +236,7 @@
                 "paises": ["Suiza", "Austria", "Francia", "Eslovenia", "San Marino", "Vaticano"],
                 "no-colindante": "Croacia"
             },
-            "bandera": "https://flagcdn.com/256x192/it.png"
+            "bandera": "https://flagcdn.com/192x144/it.webp"
         },
         {
             "key": 18,
@@ -250,7 +250,7 @@
                 "paises": ["Italia"],
                 "no-colindante": "Mónaco"
             },
-            "bandera": "https://flagcdn.com/256x192/sm.png"
+            "bandera": "https://flagcdn.com/192x144/sm.webp"
         },
         {
             "key": 19,
@@ -264,7 +264,7 @@
                 "paises": ["Italia"],
                 "no-colindante": "San Marino"
             },
-            "bandera": "https://flagcdn.com/256x192/va.png"
+            "bandera": "https://flagcdn.com/192x144/va.webp"
         },
         {
             "key": 20,
@@ -278,7 +278,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/mt.png"
+            "bandera": "https://flagcdn.com/192x144/mt.webp"
         },
         {
             "key": 21,
@@ -292,7 +292,7 @@
                 "paises": ["Francia"],
                 "no-colindante": "España"
             },
-            "bandera": "https://flagcdn.com/256x192/mc.png"
+            "bandera": "https://flagcdn.com/192x144/mc.webp"
         },
         {
             "key": 22,
@@ -306,7 +306,7 @@
                 "paises": ["Mónaco", "España", "Andorra", "Italia", "Suiza", "Bélgica", "Luxemburgo", "Alemania"],
                 "no-colindante": "España"
             },
-            "bandera": "https://flagcdn.com/256x192/fr.png"
+            "bandera": "https://flagcdn.com/192x144/fr.webp"
         },
         {
             "key": 23,
@@ -320,7 +320,7 @@
                 "paises": ["España", "Francia"],
                 "no-colindante": "Suiza"
             },
-            "bandera": "https://flagcdn.com/256x192/ad.png"
+            "bandera": "https://flagcdn.com/192x144/ad.webp"
         },
         {
             "key": 24,
@@ -334,7 +334,7 @@
                 "paises": ["Portugal", "Francia", "Andorra", "Marruecos", "Reino Unido"],
                 "no-colindante": "Argelia"
             },
-            "bandera": "https://flagcdn.com/256x192/es.png"
+            "bandera": "https://flagcdn.com/192x144/es.webp"
         },
         {
             "key": 25,
@@ -348,7 +348,7 @@
                 "paises": ["España"],
                 "no-colindante": "Francia"
             },
-            "bandera": "https://flagcdn.com/256x192/pt.png"
+            "bandera": "https://flagcdn.com/192x144/pt.webp"
         },
         {
             "key": 26,
@@ -362,7 +362,7 @@
                 "paises": ["Reino Unido"],
                 "no-colindante": "Escocia"
             },
-            "bandera": "https://flagcdn.com/256x192/fr.png"
+            "bandera": "https://flagcdn.com/192x144/fr.webp"
         },
         {
             "key": 27,
@@ -376,7 +376,7 @@
                 "paises": ["España", "Irlanda"],
                 "no-colindante": "Francia"
             },
-            "bandera": "https://flagcdn.com/256x192/fr.png"
+            "bandera": "https://flagcdn.com/192x144/fr.webp"
         }
     ],
     "eur-asia": [
@@ -392,7 +392,7 @@
                 "paises": ["Noruega", "Finlandia", "Estonia", "Lituania", "Letonia", "Polonia", "Bielorrusia", "Ucrania", "Georgia", "Azerbaiyán", "Kazajistán", "China", "Mongolia", "Corea del Norte"],
                 "no-colindante": "Japón"
             },
-            "bandera": "https://flagcdn.com/ru/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ru.webp"
         }
     ],
     "america-norte": [
@@ -408,7 +408,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/gd.png"
+            "bandera": "https://flagcdn.com/192x144/gd.webp"
         },
         {
             "key": 47,
@@ -422,7 +422,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/vc.png"
+            "bandera": "https://flagcdn.com/192x144/vc.webp"
         },
         {
             "key": 48,
@@ -436,7 +436,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/bb.png"
+            "bandera": "https://flagcdn.com/192x144/bb.webp"
         },
         {
             "key": 49,
@@ -450,7 +450,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/lc.png"
+            "bandera": "https://flagcdn.com/192x144/lc.webp"
         },
         {
             "key": 50,
@@ -464,7 +464,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/dm.png"
+            "bandera": "https://flagcdn.com/192x144/dm.webp"
         },
         {
             "key": 51,
@@ -478,7 +478,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/ag.png"
+            "bandera": "https://flagcdn.com/192x144/ag.webp"
         },
         {
             "key": 52,
@@ -492,7 +492,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/kn.png"
+            "bandera": "https://flagcdn.com/192x144/kn.webp"
         },
         {
             "key": 53,
@@ -506,7 +506,7 @@
                 "paises": ["Haití"],
                 "no-colindante": "Cuba"
             },
-            "bandera": "https://flagcdn.com/256x192/do.png"
+            "bandera": "https://flagcdn.com/192x144/do.webp"
         },
         {
             "key": 54,
@@ -520,7 +520,7 @@
                 "paises": ["República Dominicana"],
                 "no-colindante": "Trinidad y Tobago"
             },
-            "bandera": "https://flagcdn.com/256x192/ht.png"
+            "bandera": "https://flagcdn.com/192x144/ht.webp"
         },
         {
             "key": 55,
@@ -534,7 +534,7 @@
                 "paises": "",
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/cu.png"
+            "bandera": "https://flagcdn.com/192x144/cu.webp"
         },
         {
             "key": 56,
@@ -548,7 +548,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/jm.png"
+            "bandera": "https://flagcdn.com/192x144/jm.webp"
         },
         {
             "key": 57,
@@ -562,7 +562,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/bs.png"
+            "bandera": "https://flagcdn.com/192x144/bs.webp"
         },
         {
             "key": 58,
@@ -576,7 +576,7 @@
                 "paises": ["Estados Unidos"],
                 "no-colindante": "Islandia"
             },
-            "bandera": "https://flagcdn.com/256x192/ca.png"
+            "bandera": "https://flagcdn.com/192x144/ca.webp"
         },
         {
             "key": 59,
@@ -590,7 +590,7 @@
                 "paises": ["Canadá", "México"],
                 "no-colindante": "Bahamas"
             },
-            "bandera": "https://flagcdn.com/256x192/us.png"
+            "bandera": "https://flagcdn.com/192x144/us.webp"
         },
         {
             "key": 60,
@@ -604,7 +604,7 @@
                 "paises": ["Estados Unidos", "Belice", "Guatemala"],
                 "no-colindante": "Costa Rica"
             },
-            "bandera": "https://flagcdn.com/256x192/mx.png"
+            "bandera": "https://flagcdn.com/192x144/mx.webp"
         },
         {
             "key": 61,
@@ -618,7 +618,7 @@
                 "paises": ["México", "Belice", "El Salvador", "Honduras"],
                 "no-colindante": "Panamá"
             },
-            "bandera": "https://flagcdn.com/256x192/gt.png"
+            "bandera": "https://flagcdn.com/192x144/gt.webp"
         },
         {
             "key": 62,
@@ -632,7 +632,7 @@
                 "paises": ["México", "Guatemala"],
                 "no-colindante": "Honduras"
             },
-            "bandera": "https://flagcdn.com/256x192/bz.png"
+            "bandera": "https://flagcdn.com/192x144/bz.webp"
         },
         {
             "key": 63,
@@ -646,7 +646,7 @@
                 "paises": ["Guatemala", "Honduras"],
                 "no-colindante": "Nicaragua"
             },
-            "bandera": "https://flagcdn.com/256x192/sv.png"
+            "bandera": "https://flagcdn.com/192x144/sv.webp"
         },
         {
             "key": 64,
@@ -660,7 +660,7 @@
                 "paises": ["Guatemala", "El Salvador", "Nicaragua"],
                 "no-colindante": "Belice"
             },
-            "bandera": "https://flagcdn.com/256x192/hn.png"
+            "bandera": "https://flagcdn.com/192x144/hn.webp"
         },
         {
             "key": 65,
@@ -674,7 +674,7 @@
                 "paises": ["Honduras", "Costa Rica"],
                 "no-colindante": "Guatemala"
             },
-            "bandera": "https://flagcdn.com/256x192/ni.png"
+            "bandera": "https://flagcdn.com/192x144/ni.webp"
         },
         {
             "key": 66,
@@ -688,7 +688,7 @@
                 "paises": ["Nicaragua", "Panamá"],
                 "no-colindante": "Colombia"
             },
-            "bandera": "https://flagcdn.com/256x192/cr.png"
+            "bandera": "https://flagcdn.com/192x144/cr.webp"
         },
         {
             "key": 67,
@@ -702,7 +702,7 @@
                 "paises": ["Costa Rica", "Colombia"],
                 "no-colindante": "Ecuador"
             },
-            "bandera": "https://flagcdn.com/256x192/pa.png"
+            "bandera": "https://flagcdn.com/192x144/pa.webp"
         }
     ],
     "america-sur": [
@@ -718,7 +718,7 @@
                 "paises":[],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/256x192/tt.png"
+            "bandera": "https://flagcdn.com/192x144/tt.webp"
         },
         {
             "key": 68,
@@ -732,7 +732,7 @@
                 "paises": ["Panamá", "Ecuador", "Perú", "Brasil", "Venezuela"],
                 "no-colindante": "Bolivia"
             },
-            "bandera": "https://flagcdn.com/256x192/co.png"
+            "bandera": "https://flagcdn.com/192x144/co.webp"
         },
         {
             "key": 69,
@@ -746,7 +746,7 @@
                 "paises": ["Colombia", "Brasil", "Guyana"],
                 "no-colindante": "Perú"
             },
-            "bandera": "https://flagcdn.com/256x192/ve.png"
+            "bandera": "https://flagcdn.com/192x144/ve.webp"
         },
         {
             "key": 70,
@@ -760,7 +760,7 @@
                 "paises": ["Surinam", "Brasil", "Venezuela"],
                 "no-colindante": "Haití"
             },
-            "bandera": "https://flagcdn.com/256x192/gy.png"
+            "bandera": "https://flagcdn.com/192x144/gy.webp"
         },
         {
             "key": 71,
@@ -774,7 +774,7 @@
                 "paises": ["Guyana", "Brasil"],
                 "no-colindante": "Colombia"
             },
-            "bandera": "https://flagcdn.com/256x192/sr.png"
+            "bandera": "https://flagcdn.com/192x144/sr.webp"
         },
         {
             "key": 72,
@@ -788,7 +788,7 @@
                 "paises": ["Perú", "Colombia"],
                 "no-colindante": "Chile"
             },
-            "bandera": "https://flagcdn.com/256x192/ec.png"
+            "bandera": "https://flagcdn.com/192x144/ec.webp"
         },
         {
             "key": 73,
@@ -802,7 +802,7 @@
                 "paises": ["Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
                 "no-colindante": "Paraguay"
             },
-            "bandera": "https://flagcdn.com/256x192/pe.png"
+            "bandera": "https://flagcdn.com/192x144/pe.webp"
         },
         {
             "key": 74,
@@ -816,7 +816,7 @@
                 "paises": ["Uruguay", "Argentina", "Paraguay", "Bolivia", "Perú", "Colombia", "Venezuela", "Guyana", "Surinam"],
                 "no-colindante": "Ecuador"
             },
-            "bandera": "https://flagcdn.com/256x192/br.png"
+            "bandera": "https://flagcdn.com/192x144/br.webp"
         },
         {
             "key": 75,
@@ -830,7 +830,7 @@
                 "paises": ["Perú", "Chile", "Argentina", "Paraguay", "Brasil"],
                 "no-colindante": "Venezuela"
             },
-            "bandera": "https://flagcdn.com/256x192/bo.png"
+            "bandera": "https://flagcdn.com/192x144/bo.webp"
         },
         {
             "key": 76,
@@ -844,7 +844,7 @@
                 "paises": ["Argentina", "Bolivia", "Brasil"],
                 "no-colindante": "Perú"
             },
-            "bandera": "https://flagcdn.com/256x192/py.png"
+            "bandera": "https://flagcdn.com/192x144/py.webp"
         },
         {
             "key": 77,
@@ -858,7 +858,7 @@
                 "paises": ["Argentina", "Brasil"],
                 "no-colindante": "Venezuela"
             },
-            "bandera": "https://flagcdn.com/256x192/uy.png"
+            "bandera": "https://flagcdn.com/192x144/uy.webp"
         },
         {
             "key": 78,
@@ -872,7 +872,7 @@
                 "paises": ["Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
                 "no-colindante": "Guyana"
             },
-            "bandera": "https://flagcdn.com/256x192/ar.png"
+            "bandera": "https://flagcdn.com/192x144/ar.webp"
         },
         {
             "key": 79,
@@ -886,10 +886,290 @@
                 "paises": ["Perú", "Bolivia", "Argentina"],
                 "no-colindante": "Brasil"
             },
-            "bandera": "https://flagcdn.com/256x192/cl.png"
+            "bandera": "https://flagcdn.com/192x144/cl.webp"
         }
     ],
     "africa": [
+        {
+            "key": 80,
+            "pais": "Senegal",
+            "capital": "Dakar",
+            "población": 18501984,
+            "area": 194530,
+            "altitud-max": 581,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Mauritania", "Malí", "Guinea-", "Guinea Bissau", "Gambia"],
+                "no-colindante": "Costa de Marfil"
+            },
+            "bandera": "https://flagcdn.com/192x144/sn.webp"
+        },
+        {
+            "key": 81,
+            "pais": "Gambia",
+            "capital": "Banjul",
+            "población": 2759988,
+            "area": 10820,
+            "altitud-max": 53,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Senegal"],
+                "no-colindante": "Zambia"
+            },
+            "bandera": "https://flagcdn.com/192x144/gm.webp"
+        },
+        {
+            "key": 82,
+            "pais": "Guinea Bissau",
+            "capital": "Bissau",
+            "población": 19878352,
+            "area": 31120,
+            "altitud-max": 300,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Guinea","Gambia"],
+                "no-colindante": "Burkina Faso"
+            },
+            "bandera": "https://flagcdn.com/192x144/gw.webp"
+        },
+        {
+            "key": 83,
+            "pais": "Guinea",
+            "capital": "Conarki",
+            "población": 14754785,
+            "area": 245858,
+            "altitud-max": 1752,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Senegal", "Malí", "Sierra Leona", "Guinea Bissau", "Liberia", "Costa de Marfil"],
+                "no-colindante": "Zimbabue"
+            },
+            "bandera": "https://flagcdn.com/192x144/gn.webp"
+        },
+        {
+            "key": 84,
+            "pais": "Sierra Leona",
+            "capital": "Freetown",
+            "población": 8642022,
+            "area": 71740,
+            "altitud-max": 1948,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Guinea", "Liberia"],
+                "no-colindante": "Mauritania"
+            },
+            "bandera": "https://flagcdn.com/192x144/sl.webp"
+        },
+        {
+            "key": 85,
+            "pais": "Liberia",
+            "capital": "Monrovia",
+            "población": 5612817,
+            "area": 107520,
+            "altitud-max": 1440,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Guinea", "Sierra Leona", "Costa de Marfil"],
+                "no-colindante": "Guinea Bissau"
+            },
+            "bandera": "https://flagcdn.com/192x144/lr.webp"
+        },
+        {
+            "key": 86,
+            "pais": "Costa de Marfil",
+            "capital": "Yamusukro / Abiyán",
+            "población": 31934230,
+            "area": 319490,
+            "altitud-max": 1752,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Malí", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
+                "no-colindante": "Nigería"
+            },
+            "bandera": "https://flagcdn.com/192x144/ci.webp"
+        },
+        {
+            "key": 87,
+            "pais": "Burkina Faso",
+            "capital": "Uagadugú",
+            "población": 28548781,
+            "area": 273986,
+            "altitud-max": 749,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Costa de Marfil", "Ghana", "Malí", "Níger", "Togo", "Benin"],
+                "no-colindante": "Namibia"
+            },
+            "bandera": "https://flagcdn.com/192x144/bf.webp"
+        },
+        {
+            "key": 88,
+            "pais": "Ghana",
+            "capital": "Acra",
+            "población": 33427414,
+            "area": 233540,
+            "altitud-max": 880,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Togo", "Burkina Faso", "Costa de Marfil"],
+                "no-colindante": "Sudán del sur"
+            },
+            "bandera": "https://flagcdn.com/192x144/gh.webp"
+        },
+        {
+            "key": 89,
+            "pais": "Togo",
+            "capital": "Lomé",
+            "población": 9215236,
+            "area": 55390,
+            "altitud-max": 986,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Ghana", "Burkina Faso", "Benin"],
+                "no-colindante": "Tanzania"
+            },
+            "bandera": "https://flagcdn.com/192x144/tg.webp"
+        },
+        {
+            "key": 90,
+            "pais": "Benin",
+            "capital": "Porto Novo / Cotonú",
+            "población": 13462724,
+            "area": 113760,
+            "altitud-max": 658,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Togo", "Burkina Faso", "Níger", "Nigeria"],
+                "no-colindante": "Liberia"
+            },
+            "bandera": "https://flagcdn.com/192x144/bj.webp"
+        },
+        {
+            "key": 91,
+            "pais": "Nigeria",
+            "capital": "Abuya",
+            "población": 228679478,
+            "area": 918770,
+            "altitud-max": 2419,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Togo", "Níger", "Chad", "Camerún"],
+                "no-colindante": "Argelia"
+            },
+            "bandera": "https://flagcdn.com/192x144/ng.webp"
+        },
+        {
+            "key": 92,
+            "pais": "Camerún",
+            "capital": "Yaundé",
+            "población": 28123744,
+            "area": 473444,
+            "altitud-max": 4040,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Nigeria", "Chad", "República Centroafricana", "Congo", "Gabón", "Guinea Ecuatorial"],
+                "no-colindante": "Gambia"
+            },
+            "bandera": "https://flagcdn.com/192x144/cm.webp"
+        },
+        {
+            "key": 93,
+            "pais": "República Centroafricana",
+            "capital": "Bangui",
+            "población": 5430690,
+            "area": 622980,
+            "altitud-max": 1420,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Camerún", "Chad", "Sudán", "Sudán del Sur", "República Democrática del Congo", "Congo"],
+                "no-colindante": "Esuatini"
+            },
+            "bandera": "https://flagcdn.com/192x144/cf.webp"
+        },
+        {
+            "key": 94,
+            "pais": "República Democrática del Congo",
+            "capital": "Kinsasa",
+            "población": 106276265,
+            "area": 2367050,
+            "altitud-max": 5110,
+            "paises-colindantes": {
+                "num": 9,
+                "paises": ["Congo", "República Centroafricana", "Sudán del Sur", "Zambia", "Tanzania", "Burundi", "Ruanda", "Uganda", "Angola"],
+                "no-colindante": "Sudáfrica"
+            },
+            "bandera": "https://flagcdn.com/192x144/cd.webp"
+        },
+        {
+            "key": 95,
+            "pais": "Congo",
+            "capital": "Brazzaville",
+            "población": 6332961,
+            "area": 341876,
+            "altitud-max": 1020,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["República Democrática del Congo", "Gabón", "República Centroafricana", "Camerún", "Angola"],
+                "no-colindante": "Eritrea"
+            },
+            "bandera": "https://flagcdn.com/192x144/cg.webp"
+        },
+        {
+            "key": 96,
+            "pais": "Gabón",
+            "capital": "Libreville",
+            "población": 2438952,
+            "area": 263670,
+            "altitud-max": 1070,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Congo", "Camerún", "Guinea Ecuatorial"],
+                "no-colindante": "Mozambique"
+            },
+            "bandera": "https://flagcdn.com/192x144/ga.webp"
+        },
+        {
+            "key": 97,
+            "pais": "Guinea Ecuatorial",
+            "capital": "Malabo",
+            "población": 1792516,
+            "area": 28050,
+            "altitud-max": 3008,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Camerún", "Gabón"],
+                "no-colindante": "Esuatini"
+            },
+            "bandera": "https://flagcdn.com/192x144/gq.webp"
+        },
+        {
+            "key": 98,
+            "pais": "Santo Tomé y Príncipe",
+            "capital": "Santo Tomé",
+            "población": 225536,
+            "area": 961,
+            "altitud-max": 2024,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/st.webp"
+        },
+        {
+            "key": 99,
+            "pais": "Angola",
+            "capital": "Luanda",
+            "población": 36885849,
+            "area": 1246700,
+            "altitud-max": 2620,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Namibia", "Zambia", "Congo", "República Democrática del Congo"],
+                "no-colindante": "Mauricio"
+            },
+            "bandera": "https://flagcdn.com/192x144/ao.webp"
+        },
         {
             "key": 100,
             "pais": "Namibia",
@@ -902,7 +1182,7 @@
                 "paises": ["Sudáfrica", "Botsuana", "Zambia", "Angola"],
                 "no-colindante": "Chad"
             },
-            "bandera": "https://flagcdn.com/na/codes.json"
+            "bandera": "https://flagcdn.com/192x144/na.webp"
         },
         {
             "key": 101,
@@ -916,7 +1196,7 @@
                 "paises": ["Namibia", "Sudáfrica", "Zimbabue", "Zambia"],
                 "no-colindante": "Senegal"
             },
-            "bandera": "https://flagcdn.com/bw/codes.json"
+            "bandera": "https://flagcdn.com/192x144/bw.webp"
         },
         {
             "key": 102,
@@ -930,7 +1210,7 @@
                 "paises": ["Lesotho", "Esuatini", "Mozambique", "Zimbabue", "Botsuana", "Namibia"],
                 "no-colindante": "Congo"
             },
-            "bandera": "https://flagcdn.com/za/codes.json"
+            "bandera": "https://flagcdn.com/192x144/za.webp"
         },
         {
             "key": 103,
@@ -944,7 +1224,7 @@
                 "paises": ["Sudáfrica"],
                 "no-colindante": "Madagascar"
             },
-            "bandera": "https://flagcdn.com/ls/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ls.webp"
         },
         {
             "key": 104,
@@ -958,7 +1238,7 @@
                 "paises": ["Mozambique", "Sudáfrica"],
                 "no-colindante": "Somalia"
             },
-            "bandera": "https://flagcdn.com/sz/codes.json"
+            "bandera": "https://flagcdn.com/192x144/sz.webp"
         },
         {
             "key": 105,
@@ -972,7 +1252,7 @@
                 "paises": ["Tanzania", "Zambia", "Malaui", "Zimbabue", "Esuatini", "Sudáfrica"],
                 "no-colindante": "Ghana"
             },
-            "bandera": "https://flagcdn.com/mz/codes.json"
+            "bandera": "https://flagcdn.com/192x144/mz.webp"
         },
         {
             "key": 106,
@@ -986,7 +1266,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/mg/codes.json"
+            "bandera": "https://flagcdn.com/192x144/mg.webp"
         },
         {
             "key": 107,
@@ -1000,7 +1280,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/mu/codes.json"
+            "bandera": "https://flagcdn.com/192x144/mu.webp"
         },
         {
             "key": 108,
@@ -1014,7 +1294,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/sc/codes.json"
+            "bandera": "https://flagcdn.com/192x144/sc.webp"
         },
         {
             "key": 109,
@@ -1028,7 +1308,7 @@
                 "paises": [],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/km/codes.json"
+            "bandera": "https://flagcdn.com/192x144/km.webp"
         },
         {
             "key": 110,
@@ -1042,7 +1322,7 @@
                 "paises": ["Botsuana", "Zambia", "Mozambique", "Sudáfrica"],
                 "no-colindante": "República Democrática del Congo"
             },
-            "bandera": "https://flagcdn.com/zw/codes.json"
+            "bandera": "https://flagcdn.com/192x144/zw.webp"
         },
         {
             "key": 111,
@@ -1056,7 +1336,7 @@
                 "paises": ["Tanzania", "Malaui", "Mozambique", "República Democrática del Congo", "Zimbabue", "Namibia", "Angola", "Botsuana"],
                 "no-colindante": "Sudáfrica"
             },
-            "bandera": "https://flagcdn.com/zm/codes.json"
+            "bandera": "https://flagcdn.com/192x144/zm.webp"
         },
         {
             "key": 112,
@@ -1070,7 +1350,7 @@
                 "paises": ["Tanzania", "Zambia", "Mozambique"],
                 "no-colindante": "Lesotho"
             },
-            "bandera": "https://flagcdn.com/mw/codes.json"
+            "bandera": "https://flagcdn.com/192x144/mw.webp"
         },
         {
             "key": 113,
@@ -1084,7 +1364,7 @@
                 "paises": ["Ruanda", "Uganda", "Burundi", "Kenia", "República Democrática del Congo", "Malaui", "Zambia", "Mozambique"],
                 "no-colindante": "Etiopía"
             },
-            "bandera": "https://flagcdn.com/tz/codes.json"
+            "bandera": "https://flagcdn.com/192x144/tz.webp"
         },
         {
             "key": 114,
@@ -1098,7 +1378,7 @@
                 "paises": ["Tanzania", "Ruanda", "República Democrática del Congo"],
                 "no-colindante": "Namibia"
             },
-            "bandera": "https://flagcdn.com/bi/codes.json"
+            "bandera": "https://flagcdn.com/192x144/bi.webp"
         },
         {
             "key": 115,
@@ -1112,7 +1392,7 @@
                 "paises": ["Tanzania", "Uganda", "República Democrática del Congo", "Burundi"],
                 "no-colindante": "Sudán"
             },
-            "bandera": "https://flagcdn.com/rw/codes.json"
+            "bandera": "https://flagcdn.com/192x144/rw.webp"
         },
         {
             "key": 116,
@@ -1126,7 +1406,7 @@
                 "paises": ["Tanzania", "Ruanda", "Sudán del Sur", "Kenia", "República Democrática del Congo"],
                 "no-colindante": "Yibuti"
             },
-            "bandera": "https://flagcdn.com/ug/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ug.webp"
         },
         {
             "key": 117,
@@ -1140,7 +1420,7 @@
                 "paises": ["Tanzania", "Uganda", "Sudán del Sur", "Etipoía", "Somalia"],
                 "no-colindante": "Zambia"
             },
-            "bandera": "https://flagcdn.com/ke/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ke.webp"
         },
         {
             "key": 118,
@@ -1154,7 +1434,7 @@
                 "paises": ["Kenia", "Etipoía", "Eritrea"],
                 "no-colindante": "Sudán del sur"
             },
-            "bandera": "https://flagcdn.com/so/codes.json"
+            "bandera": "https://flagcdn.com/192x144/so.webp"
         },
         {
             "key": 119,
@@ -1168,7 +1448,7 @@
                 "paises": ["Somalia", "Etipoía", "Eritrea"],
                 "no-colindante": "Egipto"
             },
-            "bandera": "https://flagcdn.com/dj/codes.json"
+            "bandera": "https://flagcdn.com/192x144/dj.webp"
         },
         {
             "key": 120,
@@ -1182,7 +1462,7 @@
                 "paises": ["Sudán", "Etipoía", "Yibuti"],
                 "no-colindante": "Argelia"
             },
-            "bandera": "https://flagcdn.com/er/codes.json"
+            "bandera": "https://flagcdn.com/192x144/er.webp"
         },
         {
             "key": 121,
@@ -1196,7 +1476,7 @@
                 "paises": ["Sudán", "Kenia", "Somalia", "Sudán del Sur", "Eritrea", "Yibuti"],
                 "no-colindante": "Libia"
             },
-            "bandera": "https://flagcdn.com/et/codes.json"
+            "bandera": "https://flagcdn.com/192x144/et.webp"
         },
         {
             "key": 122,
@@ -1210,7 +1490,7 @@
                 "paises": ["Sudán", "República Democrática del Congo", "Uganda", "República Centroafricana", "Kenia", "Etipoía"],
                 "no-colindante": "Tanzania"
             },
-            "bandera": "https://flagcdn.com/ss/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ss.webp"
         },
         {
             "key": 123,
@@ -1224,7 +1504,7 @@
                 "paises": ["Egipto", "Libia", "Chad", "República Centroafricana", "Sudán del Sur", "Etipoía", "Eritrea"],
                 "no-colindante": "Camerún"
             },
-            "bandera": "https://flagcdn.com/sd/codes.json"
+            "bandera": "https://flagcdn.com/192x144/sd.webp"
         },
         {
             "key": 124,
@@ -1238,7 +1518,7 @@
                 "paises": ["Libia", "Sudán", "Níger", "Nigeria", "Camerún", "República Centroafricana"],
                 "no-colindante": "Marruecos"
             },
-            "bandera": "https://flagcdn.com/td/codes.json"
+            "bandera": "https://flagcdn.com/192x144/td.webp"
         },
         {
             "key": 125,
@@ -1252,7 +1532,7 @@
                 "paises": ["Libia", "Argelia", "Malí", "Burkina Faso", "Benin", "Nigeria", "Chad"],
                 "no-colindante": "Mauritania"
             },
-            "bandera": "https://flagcdn.com/ne/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ne.webp"
         },
         {
             "key": 126,
@@ -1266,7 +1546,7 @@
                 "paises": ["Argelia", "Mauritania", "Senegal", "Guinea", "Costa de Marfil", "Burkina Faso", "Níger"],
                 "no-colindante": "Marruecos"
             },
-            "bandera": "https://flagcdn.com/ml/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ml.webp"
         },
         {
             "key": 127,
@@ -1280,7 +1560,7 @@
                 "paises": ["Marruecos", "Argelia", "Malí", "Senegal"],
                 "no-colindante": "Túnez"
             },
-            "bandera": "https://flagcdn.com/mr/codes.json"
+            "bandera": "https://flagcdn.com/192x144/mr.webp"
         },
         {
             "key": 128,
@@ -1294,7 +1574,7 @@
                 "paises": [0],
                 "no-colindante": ""
             },
-            "bandera": "https://flagcdn.com/cv/codes.json"
+            "bandera": "https://flagcdn.com/192x144/cv.webp"
         },
         {
             "key": 129,
@@ -1308,7 +1588,7 @@
                 "paises": ["Argelia", "Mauritania", "España"],
                 "no-colindante": "Malí"
             },
-            "bandera": "https://flagcdn.com/ma/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ma.webp"
         },
         {
             "key": 130,
@@ -1322,7 +1602,7 @@
                 "paises": ["Túnez", "Libia", "Marruecos", "Mauritania", "Malí", "Níger"],
                 "no-colindante": "Senegal"
             },
-            "bandera": "https://flagcdn.com/dz/codes.json"
+            "bandera": "https://flagcdn.com/192x144/dz.webp"
         },
         {
             "key": 131,
@@ -1336,7 +1616,7 @@
                 "paises": ["Libia", "Argelia"],
                 "no-colindante": "Italia"
             },
-            "bandera": "https://flagcdn.com/tn/codes.json"
+            "bandera": "https://flagcdn.com/192x144/tn.webp"
         },
         {
             "key": 132,
@@ -1350,7 +1630,7 @@
                 "paises": ["Egipto", "Sudán", "Túnez", "Argelia", "Níger", "Chad"],
                 "no-colindante": "Liberia"
             },
-            "bandera": "https://flagcdn.com/ly/codes.json"
+            "bandera": "https://flagcdn.com/192x144/ly.webp"
         }
     ],
     "afri-asia": [
@@ -1366,7 +1646,7 @@
                 "paises": ["Libia", "Sudán"],
                 "no-colindante": "Arabia Saudía"
             },
-            "bandera": "https://flagcdn.com/eg/codes.json"
+            "bandera": "https://flagcdn.com/192x144/eg.webp"
         }
     ],
     "asia": [
