@@ -149,7 +149,7 @@
             "altitud-max": 1014,
             "paises-colindantes": {
                 "num": 7,
-                "paises": ["Eslovaquía", "Serbia", "Rumanía", "Croacia", "Ucrania", "Eslovenia", "Austria"],
+                "paises": ["Eslovaquia", "Serbia", "Rumanía", "Croacia", "Ucrania", "Eslovenia", "Austria"],
                 "no-colindante": "Moldavia"
             },
             "bandera": "https://flagcdn.com/192x144/hu.webp"
@@ -362,7 +362,7 @@
                 "paises": ["Reino Unido"],
                 "no-colindante": "Escocia"
             },
-            "bandera": "https://flagcdn.com/192x144/fr.webp"
+            "bandera": "https://flagcdn.com/192x144/ie.webp"
         },
         {
             "key": 27,
@@ -376,7 +376,231 @@
                 "paises": ["España", "Irlanda"],
                 "no-colindante": "Francia"
             },
-            "bandera": "https://flagcdn.com/192x144/fr.webp"
+            "bandera": "https://flagcdn.com/192x144/gb.webp"
+        },
+        {
+            "key": 28,
+            "pais": "Islandia",
+            "capital": "Reikiavik",
+            "población": 393396,
+            "area": 102002,
+            "altitud-max": 2120,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/is.webp"
+        },
+        {
+            "key": 29,
+            "pais": "Bélgica",
+            "capital": "Bruselas",
+            "población": 11738763,
+            "area": 30420,
+            "altitud-max": 694,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Francia", "Alemania", "Países Bajos", "Luxemburgo"],
+                "no-colindante": "Estonia"
+            },
+            "bandera": "https://flagcdn.com/192x144/be.webp"
+        },
+        {
+            "key": 30,
+            "pais": "Luxemburgo",
+            "capital": "Ciudad de Luxemburgo",
+            "población": 671036,
+            "area": 2590,
+            "altitud-max": 560,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Francia", "Bruselas", "Alemania"],
+                "no-colindante": "Países Bajos"
+            },
+            "bandera": "https://flagcdn.com/192x144/lu.webp"
+        },
+        {
+            "key": 31,
+            "pais": "Países Bajos",
+            "capital": "Ámsterdam",
+            "población": 18228742,
+            "area": 38720,
+            "altitud-max": 322,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Bélgica", "Alemania"],
+                "no-colindante": "Noruega"
+            },
+            "bandera": "https://flagcdn.com/192x144/nl.webp"
+        },
+        {
+            "key": 32,
+            "pais": "Alemania",
+            "capital": "Berlín",
+            "población": 84552242,
+            "area": 353386,
+            "altitud-max": 2962,
+            "paises-colindantes": {
+                "num": 9,
+                "paises": ["Países Bajos", "Bruselas", "Francia", "Suiza", "Austria", "Luxemburgo", "Dinamarca", "Polonia", "República Checa" ],
+                "no-colindante": "Serbia"
+            },
+            "bandera": "https://flagcdn.com/192x144/de.webp"
+        },
+        {
+            "key": 33,
+            "pais": "Dinamarca",
+            "capital": "Copenhague",
+            "población": 5977412,
+            "area": 42895,
+            "altitud-max": 171,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Alemania"],
+                "no-colindante": "Finlandia"
+            },
+            "bandera": "https://flagcdn.com/192x144/dk.webp"
+        },
+        {
+            "key": 34,
+            "pais": "Polonia",
+            "capital": "Varsovia",
+            "población": 38539201,
+            "area": 309230,
+            "altitud-max": 2499,
+            "paises-colindantes": {
+                "num": 7,
+                "paises": ["Rusia", "Lituania", "Bielorrusia", "Ucrania", "República Checa", "Alemania", "Eslovaquia"],
+                "no-colindante": "Dinamarca"
+            },
+            "bandera": "https://flagcdn.com/192x144/pl.webp"
+        },
+        {
+            "key": 35,
+            "pais": "Suecia",
+            "capital": "Estocolmo",
+            "población": 10606999,
+            "area": 430297,
+            "altitud-max": 2104,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Noruega", "Finlandia"],
+                "no-colindante": "Rusia"
+            },
+            "bandera": "https://flagcdn.com/192x144/se.webp"
+        },
+        {
+            "key": 36,
+            "pais": "Noruega",
+            "capital": "Oslo",
+            "población": 5576660,
+            "area": 346268,
+            "altitud-max": 2469,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Suecia", "Finlandia", "Rusia"],
+                "no-colindante": "Alemania"
+            },
+            "bandera": "https://flagcdn.com/192x144/no.webp"
+        },
+        {
+            "key": 37,
+            "pais": "Finlandia",
+            "capital": "Helsinki",
+            "población": 5617310,
+            "area": 318890,
+            "altitud-max": 1324,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Suecia", "Noruega", "Rusia"],
+                "no-colindante": "Lituania"
+            },
+            "bandera": "https://flagcdn.com/192x144/fi.webp"
+        },
+        {
+            "key": 38,
+            "pais": "Estonia",
+            "capital": "Tallin",
+            "población": 1360546,
+            "area": 43927,
+            "altitud-max": 318,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Letonia", "Rusia"],
+                "no-colindante": "Ucrania"
+            },
+            "bandera": "https://flagcdn.com/192x144/ee.webp"
+        },
+        {
+            "key": 39,
+            "pais": "Letonia",
+            "capital": "Riga",
+            "población": 1871871,
+            "area": 63558,
+            "altitud-max": 312,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Estonia", "Rusia", "Lituania", "Bielorrusia"],
+                "no-colindante": "Eslovaquia"
+            },
+            "bandera": "https://flagcdn.com/192x144/lv.webp"
+        },
+        {
+            "key": 40,
+            "pais": "Lituania",
+            "capital": "Vilna",
+            "población": 2859110,
+            "area": 63674,
+            "altitud-max": 294,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Letonia", "Bielorrusia", "Rusia", "Polonia"],
+                "no-colindante": "Bulgaria"
+            },
+            "bandera": "https://flagcdn.com/192x144/lt.webp"
+        },
+        {
+            "key": 41,
+            "pais": "Bielorrusia",
+            "capital": "Minsk",
+            "población": 9156696,
+            "area": 204910,
+            "altitud-max": 346,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Lituania", "Letonia", "Rusia", "Ucrania", "Polonia"],
+                "no-colindante": "Albania"
+            },
+            "bandera": "https://flagcdn.com/192x144/by.webp"
+        },
+        {
+            "key": 42,
+            "pais": "Ucrania",
+            "capital": "Kiev",
+            "población": 37860221,
+            "area": 587320,
+            "altitud-max": 2061,
+            "paises-colindantes": {
+                "num": 7,
+                "paises": ["Rusia", "Bielorrusia", "Polonia", "Eslovaquia", "Rumanía", "Hungría", "Moldavia"],
+                "no-colindante": "Montenegro"
+            },
+            "bandera": "https://flagcdn.com/192x144/ua.webp"
+        },
+        {
+            "key": 27,
+            "pais": "Moldavia",
+            "capital": "Chisináu",
+            "población": 2934961,
+            "area": 33546,
+            "altitud-max": 420,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Ucrania", "Rumanía"],
+                "no-colindante": "Letonia"
+            },
+            "bandera": "https://flagcdn.com/192x144/md.webp"
         }
     ],
     "eur-asia": [
