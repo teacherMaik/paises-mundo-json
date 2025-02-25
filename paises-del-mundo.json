@@ -617,6 +617,48 @@
                 "no-colindante": "Japón"
             },
             "bandera": "https://flagcdn.com/192x144/ru.webp"
+        },
+        {
+            "key": 147,
+            "pais": "Turquía",
+            "capital": "Ankara",
+            "población": 86473805,
+            "area": 777630,
+            "altitud-max": 5137,
+            "paises-colindantes": {
+                "num": 8,
+                "paises": ["Irak", "Siria", "Grecia", "Bulgaria", "Georgia", "Armenia", "Irán", "Azerbaiyán"],
+                "no-colindante": "Chipre"
+            },
+            "bandera": "https://flagcdn.com/192x144/tr.webp"
+        },
+        {
+            "key": 148,
+            "pais": "Georgia",
+            "capital": "Tiflis",
+            "población": 3807670,
+            "area": 69699,
+            "altitud-max": 5193,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Rusia", "Turquía", "Azerbaiyán", "Armenia"],
+                "no-colindante": "Iraq"
+            },
+            "bandera": "https://flagcdn.com/192x144/ge.webp"
+        },
+        {
+            "key": 149,
+            "pais": "Azerbaiyán",
+            "capital": "Bakú",
+            "población": 10336557,
+            "area": 85699,
+            "altitud-max": 4485,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Rusia", "Georgia", "Armenia", "Turquía", "Irán"],
+                "no-colindante": "Kazajistán"
+            },
+            "bandera": "https://flagcdn.com/192x144/az.webp"
         }
     ],
     "america-norte": [
@@ -1874,7 +1916,201 @@
         }
     ],
     "asia": [
-
+        {
+            "key": 134,
+            "pais": "Yemen",
+            "capital": "Saná / Adén",
+            "población": 37583164,
+            "area": 527972,
+            "altitud-max": 3666,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Arabia Saudita", "Omán"],
+                "no-colindante": "Irak"
+            },
+            "bandera": "https://flagcdn.com/192x144/ye.webp"
+        },
+        {
+            "key": 135,
+            "pais": "Omán",
+            "capital": "Mascate",
+            "población": 5281538,
+            "area": 309500,
+            "altitud-max": 2980,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Arabia Saudita", "Yemen", "Emiratos Árabes Unidos"],
+                "no-colindante": "Jordania"
+            },
+            "bandera": "https://flagcdn.com/192x144/om.webp"
+        },
+        {
+            "key": 136,
+            "pais": "Emiratos Árabes Unidos",
+            "capital": "Abu Dabi",
+            "población": 10827129,
+            "area": 83600,
+            "altitud-max": 1910,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Arabia Saudita", "Omán"],
+                "no-colindante": "Yemen"
+            },
+            "bandera": "https://flagcdn.com/192x144/ae.webp"
+        },
+        {
+            "key": 137,
+            "pais": "Qatar",
+            "capital": "Doha",
+            "población": 3048423,
+            "area": 11595,
+            "altitud-max": 103,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Arabia Saudita"],
+                "no-colindante": "Irán"
+            },
+            "bandera": "https://flagcdn.com/192x144/qa.webp"
+        },
+        {
+            "key": 138,
+            "pais": "Baréin",
+            "capital": "Manama",
+            "población": 1607049,
+            "area": 762,
+            "altitud-max": 134,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/bh.webp"
+        },
+        {
+            "key": 139,
+            "pais": "Arabia Saudita",
+            "capital": "Riad",
+            "población": 33962757,
+            "area": 2149700,
+            "altitud-max": 3000,
+            "paises-colindantes": {
+                "num": 7,
+                "paises": ["Yemen", "Omán", "Qatar", "Emiratos Árabes Unidos", "Kuwait", "Jordania", "Irak"],
+                "no-colindante": "Siria"
+            },
+            "bandera": "https://flagcdn.com/192x144/sa.webp"
+        },
+        {
+            "key": 140,
+            "pais": "Kuwait",
+            "capital": "Ciudad de Kuwait",
+            "población": 4834507,
+            "area": 17819,
+            "altitud-max": 306,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Irak", "Arabia Saudita"],
+                "no-colindante": "Irán"
+            },
+            "bandera": "https://flagcdn.com/192x144/kw.webp"
+        },
+        {
+            "key": 141,
+            "pais": "Israel",
+            "capital": "Jerusalén",
+            "población": 9587021,
+            "area": 21169,
+            "altitud-max": 1208,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Líbano", "Jordania", "Egipto", "Siria"],
+                "no-colindante": "Arabia Saudita"
+            },
+            "bandera": "https://flagcdn.com/192x144/il.webp"
+        },
+        {
+            "key": 142,
+            "pais": "Jordania",
+            "capital": "Amán",
+            "población": 11502876,
+            "area": 89142,
+            "altitud-max": 1854,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Irak", "Arabia Saudita", "Siria", "Israel"],
+                "no-colindante": "Kuwait"
+            },
+            "bandera": "https://flagcdn.com/192x144/jo.webp"
+        },
+        {
+            "key": 143,
+            "pais": "Líbano",
+            "capital": "Beirut",
+            "población": 5705962,
+            "area": 10339,
+            "altitud-max": 3088,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Israel", "Siria"],
+                "no-colindante": "Turquía"
+            },
+            "bandera": "https://flagcdn.com/192x144/lb.webp"
+        },
+        {
+            "key": 144,
+            "pais": "Chipre",
+            "capital": "Nicosia",
+            "población": 1358282,
+            "area": 9247,
+            "altitud-max": 1951,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""            },
+            "bandera": "https://flagcdn.com/192x144/cy.webp"
+        },
+        {
+            "key": 145,
+            "pais": "Siria",
+            "capital": "Damasco",
+            "población": 23672760,
+            "area": 184640,
+            "altitud-max": 2814,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Irak", "Israel", "Jordania", "Líbano", "Turquía"],
+                "no-colindante": "Armenia"
+            },
+            "bandera": "https://flagcdn.com/192x144/sy.webp"
+        },
+        {
+            "key": 146,
+            "pais": "Irak",
+            "capital": "Bagdad",
+            "población": 44042015,
+            "area": 426320,
+            "altitud-max": 3611,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Siria", "Arabia Saudita", "Kuwait", "Irán", "Turquía"],
+                "no-colindante": "Qatar"
+            },
+            "bandera": "https://flagcdn.com/192x144/iq.webp"
+        },
+        {
+            "key": 150,
+            "pais": "Armenia",
+            "capital": "Ereván",
+            "población": 29170,
+            "area": 17819,
+            "altitud-max": 4090,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Turquí", "Georgia", "Irán", "Azerbaiyán"],
+                "no-colindante": "Siria"
+            },
+            "bandera": "https://flagcdn.com/192x144/am.webp"
+        }
     ],
     "oceania": [
 
