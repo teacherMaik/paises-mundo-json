@@ -589,7 +589,7 @@
             "bandera": "https://flagcdn.com/192x144/ua.webp"
         },
         {
-            "key": 27,
+            "key": 43,
             "pais": "Moldavia",
             "capital": "Chisináu",
             "población": 2934961,
@@ -659,6 +659,20 @@
                 "no-colindante": "Kazajistán"
             },
             "bandera": "https://flagcdn.com/192x144/az.webp"
+        },
+        {
+            "key": 154,
+            "pais": "Kazajistán",
+            "capital": "Astaná",
+            "población": 20592571,
+            "area": 2724911,
+            "altitud-max": 7010,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Rusia", "Turkmenistán", "Uzbekistán", "China", "Kirguistán"],
+                "no-colindante": "Georgia"
+            },
+            "bandera": "https://flagcdn.com/192x144/kz.webp"
         }
     ],
     "america-norte": [
@@ -2106,11 +2120,168 @@
             "altitud-max": 4090,
             "paises-colindantes": {
                 "num": 4,
-                "paises": ["Turquí", "Georgia", "Irán", "Azerbaiyán"],
+                "paises": ["Turquía", "Georgia", "Irán", "Azerbaiyán"],
                 "no-colindante": "Siria"
             },
             "bandera": "https://flagcdn.com/192x144/am.webp"
+        },
+        {
+            "key": 151,
+            "pais": "Irán",
+            "capital": "Teherán",
+            "población": 89567738,
+            "area": 1638550,
+            "altitud-max": 5610,
+            "paises-colindantes": {
+                "num": 7,
+                "paises": ["Armenia", "Azerbaiyán", "Irak", "Turkmenistán", "Afganistán", "Pakistán", "Turquía"],
+                "no-colindante": "Omán"
+            },
+            "bandera": "https://flagcdn.com/192x144/ir.webp"
+        },
+        {
+            "key": 152,
+            "pais": "Turkmenistán",
+            "capital": "Asjabad",
+            "población": 6994498,
+            "area": 479930,
+            "altitud-max": 3139,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Irán", "Uzbekistán", "Afganistán", "Kazajistán"],
+                "no-colindante": "China"
+            },
+            "bandera": "https://flagcdn.com/192x144/tm.webp"
+        },
+        {
+            "key": 153,
+            "pais": "Uzbekistán",
+            "capital": "Taskent",
+            "población": 36361859,
+            "area": 437400,
+            "altitud-max": 4643,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Kazajistán", "Turkmenistán", "Afganistán", "Kirguistán", "Tayikistán"],
+                "no-colindante": "India"
+            },
+            "bandera": "https://flagcdn.com/192x144/uz.webp"
+        },
+        {
+            "key": 155,
+            "pais": "Kirguistán",
+            "capital": "Biskek",
+            "población": 7186009,
+            "area": 196951,
+            "altitud-max": 7439,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Kazajistán", "China", "Uzbekistán", "Tayikistán"],
+                "no-colindante": "Ucrania"
+            },
+            "bandera": "https://flagcdn.com/192x144/kg.webp"
+        },
+        {
+            "key": 156,
+            "pais": "Tayikistán",
+            "capital": "AstDusambéaná",
+            "población": 10090927,
+            "area": 141960,
+            "altitud-max": 7495,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Uzbekistán", "China", "Kirguistán", "Afganistán"],
+                "no-colindante": "Nepal"
+            },
+            "bandera": "https://flagcdn.com/192x144/tj.webp"
+        },
+        {
+            "key": 157,
+            "pais": "Afganistán",
+            "capital": "Kabul",
+            "población": 41647492,
+            "area": 652630,
+            "altitud-max": 7492,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["Irán", "Turkmenistán", "Uzbekistán", "Tayikistán", "Pakistán", "China"],
+                "no-colindante": "Sri Lanka"
+            },
+            "bandera": "https://flagcdn.com/192x144/af.webp"
+        },
+        {
+            "key": 158,
+            "pais": "Pakistán",
+            "capital": "Islamabad",
+            "población": 248269164,
+            "area": 884880,
+            "altitud-max": 8610,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["India", "China", "Irán", "Afganistán"],
+                "no-colindante": "Tayikistán"
+            },
+            "bandera": "https://flagcdn.com/192x144/pk.webp"
+        },
+        {
+            "key": 159,
+            "pais": "India",
+            "capital": "Nueva Delhi",
+            "población": 1450935791,
+            "area": 3187277,
+            "altitud-max": 8585,
+            "paises-colindantes": {
+                "num": 6,
+                "paises": ["China", "Nepal", "Pakistán", "Bután", "Bangladesh", "Myanmar"],
+                "no-colindante": "Uzbekistán"
+            },
+            "bandera": "https://flagcdn.com/192x144/in.webp"
+        },
+        {
+            "key": 160,
+            "pais": "Sri Lanka",
+            "capital": "Sri Jayawardenapura Kotte / Colombo",
+            "población": 29103565,
+            "area": 64710,
+            "altitud-max": 2524,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/lk.webp"
+        },
+        {
+            "key": 161,
+            "pais": "Maldivas",
+            "capital": "Malé",
+            "población": 524799,
+            "area": 300,
+            "altitud-max": 2,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/mv.webp"
+        },
+        {
+            "key": 162,
+            "pais": "Nepal",
+            "capital": "Katmandú",
+            "población": 29651054,
+            "area": 145350,
+            "altitud-max": 8848,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["India", "China"],
+                "no-colindante": "Afganistán"
+            },
+            "bandera": "https://flagcdn.com/192x144/np.webp"
         }
+    ],
+    "ocean-asia": [
+
     ],
     "oceania": [
 
