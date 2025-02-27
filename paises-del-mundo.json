@@ -78,7 +78,7 @@
             "area": 25220,
             "altitud-max": 2764,
             "paises-colindantes": {
-                "num": 3,
+                "num": 4,
                 "paises": ["Serbia", "Grecia", "Albania", "Bulgaria"],
                 "no-colindante": "Hungría"
             },
@@ -1472,7 +1472,7 @@
             "area": 581732,
             "altitud-max": 1491,
             "paises-colindantes": {
-                "num": 1,
+                "num": 4,
                 "paises": ["Namibia", "Sudáfrica", "Zimbabue", "Zambia"],
                 "no-colindante": "Senegal"
             },
@@ -1851,7 +1851,7 @@
             "altitud-max": 2829,
             "paises-colindantes": {
                 "num": 0,
-                "paises": [0],
+                "paises": [],
                 "no-colindante": ""
             },
             "bandera": "https://flagcdn.com/192x144/cv.webp"
@@ -1923,7 +1923,7 @@
             "altitud-max": 2629,
             "paises-colindantes": {
                 "num": 3,
-                "paises": ["Libia", "Sudán"],
+                "paises": ["Libia", "Sudán", "Israel"],
                 "no-colindante": "Arabia Saudía"
             },
             "bandera": "https://flagcdn.com/192x144/eg.webp"
@@ -2106,7 +2106,7 @@
             "altitud-max": 3611,
             "paises-colindantes": {
                 "num": 6,
-                "paises": ["Siria", "Arabia Saudita", "Kuwait", "Irán", "Turquía"],
+                "paises": ["Siria", "Arabia Saudita", "Kuwait", "Irán", "Turquía", "Jordania"],
                 "no-colindante": "Qatar"
             },
             "bandera": "https://flagcdn.com/192x144/iq.webp"
@@ -2278,10 +2278,457 @@
                 "no-colindante": "Afganistán"
             },
             "bandera": "https://flagcdn.com/192x144/np.webp"
+        },
+        {
+            "key": 163,
+            "pais": "Bután",
+            "capital": "Timbu",
+            "población": 78562,
+            "area": 38269,
+            "altitud-max": 7570,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["India", "China"],
+                "no-colindante": "Vietnam"
+            },
+            "bandera": "https://flagcdn.com/192x144/bt.webp"
+        },
+        {
+            "key": 164,
+            "pais": "Bangladesh",
+            "capital": "Daca",
+            "población": 172562364,
+            "area": 139570,
+            "altitud-max": 1052,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["India", "Myanmar"],
+                "no-colindante": "Laos"
+            },
+            "bandera": "https://flagcdn.com/192x144/bd.webp"
+        },
+        {
+            "key": 165,
+            "pais": "Myanmar",
+            "capital": "Naipyido",
+            "población": 59500091,
+            "area": 665581,
+            "altitud-max": 5881,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Bangladesh", "China", "India", "Tailandia", "Laos"],
+                "no-colindante": "Indonesia"
+            },
+            "bandera": "https://flagcdn.com/192x144/mm.webp"
+        },
+        {
+            "key": 166,
+            "pais": "Tailandia",
+            "capital": "Bangkok",
+            "población": 69668,
+            "area": 512890,
+            "altitud-max": 2565,
+            "paises-colindantes": {
+                "num": 4,
+                "paises": ["Myanmar", "Laos", "Camboya", "Malasia"],
+                "no-colindante": "Mongolia"
+            },
+            "bandera": "https://flagcdn.com/192x144/th.webp"
+        },
+        {
+            "key": 167,
+            "pais": "Malasia",
+            "capital": "Huala Lampur / Putrajaya",
+            "población": 35157673,
+            "area": 329550,
+            "altitud-max": 4095,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Tailandia", "Indonesia", "Brunei"],
+                "no-colindante": "Camboya"
+            },
+            "bandera": "https://flagcdn.com/192x144/my.webp"
+        },
+        {
+            "key": 168,
+            "pais": "Singapur",
+            "capital": "Singapur",
+            "población": 5732387,
+            "area": 710,
+            "altitud-max": 164,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/sg.webp"
+        },
+        {
+            "key": 170,
+            "pais": "Timor Oriental",
+            "capital": "Dili",
+            "población": 1400638,
+            "area": 14970,
+            "altitud-max": 2963,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Indonesia"],
+                "no-colindante": "Palaos"
+            },
+            "bandera": "https://flagcdn.com/192x144/tl.webp"
+        },
+        {
+            "key": 171,
+            "pais": "Brunei",
+            "capital": "Bandar Seri Begawan",
+            "población": 465721,
+            "area": 5570,
+            "altitud-max": 1850,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Malasia"],
+                "no-colindante": "Australia"
+            },
+            "bandera": "https://flagcdn.com/192x144/bn.webp"
+        },
+        {
+            "key": 172,
+            "pais": "Filipinas",
+            "capital": "Manila",
+            "población": 113843760,
+            "area": 307180,
+            "altitud-max": 2954,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/ph.webp"
+        },
+        {
+            "key": 173,
+            "pais": "Vietnam",
+            "capital": "Hanói",
+            "población": 100987686,
+            "area": 325070,
+            "altitud-max": 3143,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Camboya", "China", "Laos"],
+                "no-colindante": "Malasia"
+            },
+            "bandera": "https://flagcdn.com/192x144/vn.webp"
+        },
+        {
+            "key": 174,
+            "pais": "Camboya",
+            "capital": "Nom Pen",
+            "población": 16638801,
+            "area": 179520,
+            "altitud-max": 1810,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Laos", "Tailandia", "Vietnam"],
+                "no-colindante": "Corea del Sur"
+            },
+            "bandera": "https://flagcdn.com/192x144/kh.webp"
+        },
+        {
+            "key": 175,
+            "pais": "Laos",
+            "capital": "Vientián",
+            "población": 7769819,
+            "area": 233800,
+            "altitud-max": 2817,
+            "paises-colindantes": {
+                "num": 5,
+                "paises": ["Tailandia", "China", "Camboya", "Vietnam", "Myanmar"],
+                "no-colindante": "Bangladesh"
+            },
+            "bandera": "https://flagcdn.com/192x144/la.webp"
+        },
+        {
+            "key": 176,
+            "pais": "China",
+            "capital": "Pekín",
+            "población": 1419321278,
+            "area": 9497211,
+            "altitud-max": 8848,
+            "paises-colindantes": {
+                "num": 14,
+                "paises": ["Rusia", "Mongolia", "Kazajistán", "Kirguistán", "Tayikistán", "Afganistán", "Pakistán", "Nepal", "India", "Bután", "Myanmar", "Vietnam", "Laos", "Corea del Norte"],
+                "no-colindante": "Filipinas"
+            },
+            "bandera": "https://flagcdn.com/192x144/cn.webp"
+        },
+        {
+            "key": 177,
+            "pais": "Mongolia",
+            "capital": "Ulán Bator",
+            "población": 3575540,
+            "area": 1558560,
+            "altitud-max": 4374,
+            "paises-colindantes": {
+                "num": 2,
+                "paises": ["Rusia", "China"],
+                "no-colindante": "Turkmenistán"
+            },
+            "bandera": "https://flagcdn.com/192x144/mn.webp"
+        },
+        {
+            "key": 178,
+            "pais": "Corea del Norte",
+            "capital": "Pionyang",
+            "población": 26498823,
+            "area": 120497,
+            "altitud-max": 2744,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Rusia", "China", "Corea del Sur"],
+                "no-colindante": "Bután"
+            },
+            "bandera": "https://flagcdn.com/192x144/kp.webp"
+        },
+        {
+            "key": 179,
+            "pais": "Corea del Sur",
+            "capital": "Seúl",
+            "población": 51717590,
+            "area": 99230,
+            "altitud-max": 1950,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["China"],
+                "no-colindante": "Timor Oriental"
+            },
+            "bandera": "https://flagcdn.com/192x144/kr.webp"
+        },
+        {
+            "key": 180,
+            "pais": "Japón",
+            "capital": "Tokio",
+            "población": 123753041,
+            "area": 371933,
+            "altitud-max": 3776,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/jp.webp"
+        },
+        {
+            "key": 181,
+            "pais": "Palaos",
+            "capital": "Ngerulmud",
+            "población": 17695,
+            "area": 460,
+            "altitud-max": 242,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/pw.webp"
+        },
+        {
+            "key": 182,
+            "pais": "Estados Federados de Micronesia",
+            "capital": "Palikir",
+            "población": 426923,
+            "area": 702,
+            "altitud-max": 791,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/fm.webp"
+        },
+        {
+            "key": 183,
+            "pais": "Islas Marshall",
+            "capital": "Majuro",
+            "población": 38554,
+            "area": 180,
+            "altitud-max": 10,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/mh.webp"
+        },
+        {
+            "key": 184,
+            "pais": "Nauru",
+            "capital": "Yaren",
+            "población": 11947,
+            "area": 21,
+            "altitud-max": 71,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/nr.webp"
+        },
+        {
+            "key": 185,
+            "pais": "Kiribatia",
+            "capital": "Tarawa",
+            "población": 129518,
+            "area": 811,
+            "altitud-max": 81,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/ki.webp"
+        },
+        {
+            "key": 186,
+            "pais": "Samoa",
+            "capital": "Apia",
+            "población": 214859,
+            "area": 2839,
+            "altitud-max": 1857,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/ws.webp"
+        },
+        {
+            "key": 187,
+            "pais": "Tuvalu",
+            "capital": "Funafuti",
+            "población": 9646,
+            "area": 28,
+            "altitud-max": 5,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/tv.webp"
+        },
+        {
+            "key": 188,
+            "pais": "Tonga",
+            "capital": "Nukualofa",
+            "población": 104175,
+            "area": 734,
+            "altitud-max": 1033,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/to.webp"
+        },
+        {
+            "key": 189,
+            "pais": "Fiyi",
+            "capital": "Suva",
+            "población": 928734,
+            "area": 18272,
+            "altitud-max": 1324,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/fj.webp"
+        },
+        {
+            "key": 190,
+            "pais": "Vanuatu",
+            "capital": "Port Vila",
+            "población": 321777,
+            "area": 12190,
+            "altitud-max": 1879,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/vu.webp"
+        },
+        {
+            "key": 191,
+            "pais": "Islas Salomón",
+            "capital": "Honiara",
+            "población": 798198,
+            "area": 28269,
+            "altitud-max": 2335,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/sb.webp"
+        },
+        {
+            "key": 192,
+            "pais": "Papúa Nueva Guinea",
+            "capital": "Puerto Moresby",
+            "población": 10576502,
+            "area": 458841,
+            "altitud-max": 4509,
+            "paises-colindantes": {
+                "num": 1,
+                "paises": ["Indonesia"],
+                "no-colindante": "Nueva Zelanda"
+            },
+            "bandera": "https://flagcdn.com/192x144/pg.webp"
+        },
+        {
+            "key": 193,
+            "pais": "Australia",
+            "capital": "Canberra",
+            "población": 26713205,
+            "area": 7689254,
+            "altitud-max": 2745,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/au.webp"
+        },
+        {
+            "key": 194,
+            "pais": "Nueva Zelanda",
+            "capital": "Wellington",
+            "población": 5213944,
+            "area": 267469,
+            "altitud-max": 3754,
+            "paises-colindantes": {
+                "num": 0,
+                "paises": [],
+                "no-colindante": ""
+            },
+            "bandera": "https://flagcdn.com/192x144/nz.webp"
         }
     ],
     "ocean-asia": [
-
+        {
+            "key": 169,
+            "pais": "Indonesia",
+            "capital": "Yakarta",
+            "población": 281487931,
+            "area": 1867570,
+            "altitud-max": 4884,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Timor Oriental", "Malasia", "Papúa Nueva Guinea"],
+                "no-colindante": "Tailandia"
+            },
+            "bandera": "https://flagcdn.com/192x144/id.webp"
+        }
     ],
     "oceania": [
 
