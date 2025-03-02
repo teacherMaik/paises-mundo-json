@@ -4,7 +4,7 @@
             "key": 1,
             "pais": "Eslovenia",
             "capital": "Liubliana",
-            "población": 2118697,
+            "poblacion": 2118697,
             "area": 20140,
             "altitud-max": 2864,
             "paises-colindantes": {
@@ -18,7 +18,7 @@
             "key": 2,
             "pais": "Croacia",
             "capital": "Zagreb",
-            "población": 3875325,
+            "poblacion": 3875325,
             "area": 55960,
             "altitud-max": 1831,
             "paises-colindantes": {
@@ -32,7 +32,7 @@
             "key": 3,
             "pais": "Bosnia y Herzegovina",
             "capital": "Sarajevo",
-            "población": 3164253,
+            "poblacion": 3164253,
             "area": 51000,
             "altitud-max": 2386,
             "paises-colindantes": {
@@ -46,7 +46,7 @@
             "key": 4,
             "pais": "Montenegro",
             "capital": "Podgorica",
-            "población": 638479,
+            "poblacion": 638479,
             "area": 13450,
             "altitud-max": 2534,
             "paises-colindantes": {
@@ -60,7 +60,7 @@
             "key": 5,
             "pais": "Albania",
             "capital": "Tirana",
-            "población": 2791765,
+            "poblacion": 2791765,
             "area": 27400,
             "altitud-max": 2764,
             "paises-colindantes": {
@@ -74,7 +74,7 @@
             "key": 6,
             "pais": "Macedonia del Norte",
             "capital": "Skopie",
-            "población": 1823009,
+            "poblacion": 1823009,
             "area": 25220,
             "altitud-max": 2764,
             "paises-colindantes": {
@@ -88,12 +88,12 @@
             "key": 7,
             "pais": "Serbia",
             "capital": "Belgrado",
-            "población": 6736216,
+            "poblacion": 6736216,
             "area": 87460,
             "altitud-max": 2169,
             "paises-colindantes": {
                 "num": 8,
-                "paises": ["Hungría", "Bulgaria", "Runamía", "Croacia", "Bosnia y Herzegovina", "Montenegro", "Macedonia del Norte", "Albania"],
+                "paises": ["Hungría", "Bulgaria", "Rumanía", "Croacia", "Bosnia y Herzegovina", "Montenegro", "Macedonia del Norte", "Albania"],
                 "no-colindante": "Austria"
             },
             "bandera": "https://flagcdn.com/192x144/rs.webp"
@@ -102,12 +102,12 @@
             "key": 8,
             "pais": "Bulgaria",
             "capital": "Sofía",
-            "población": 6757689,
+            "poblacion": 6757689,
             "area": 108560,
             "altitud-max": 2925,
             "paises-colindantes": {
                 "num": 5,
-                "paises": ["Runamía", "Grecia", "Turquía", "Serbia", "Macedonia del Norte"],
+                "paises": ["Rumanía", "Grecia", "Turquía", "Serbia", "Macedonia del Norte"],
                 "no-colindante": "Hungría"
             },
             "bandera": "https://flagcdn.com/192x144/bg.webp"
@@ -116,7 +116,7 @@
             "key": 9,
             "pais": "Grecia",
             "capital": "Atenas",
-            "población": 10047817,
+            "poblacion": 10047817,
             "area": 128900,
             "altitud-max": 2919,
             "paises-colindantes": {
@@ -130,7 +130,7 @@
             "key": 10,
             "pais": "Rumanía",
             "capital": "Bucarest",
-            "población": 19015088,
+            "poblacion": 19015088,
             "area": 230170,
             "altitud-max": 2544,
             "paises-colindantes": {
@@ -144,7 +144,7 @@
             "key": 11,
             "pais": "Hungría",
             "capital": "Budapest",
-            "población": 9676135,
+            "poblacion": 9676135,
             "area": 90530,
             "altitud-max": 1014,
             "paises-colindantes": {
@@ -158,7 +158,7 @@
             "key": 12,
             "pais": "Eslovaquia",
             "capital": "Bratislava",
-            "población": 5506760,
+            "poblacion": 5506760,
             "area": 48088,
             "altitud-max": 2655,
             "paises-colindantes": {
@@ -172,7 +172,7 @@
             "key": 13,
             "pais": "República Checa",
             "capital": "Praga",
-            "población": 10735859,
+            "poblacion": 10735859,
             "area": 77240,
             "altitud-max": 1602,
             "paises-colindantes": {
@@ -186,7 +186,7 @@
             "key": 14,
             "pais": "Austria",
             "capital": "Viena",
-            "población": 9120813,
+            "poblacion": 9120813,
             "area": 82409,
             "altitud-max": 3798,
             "paises-colindantes": {
@@ -200,7 +200,7 @@
             "key": 15,
             "pais": "Liechtenstein",
             "capital": "Vaduz",
-            "población": 39870,
+            "poblacion": 39870,
             "area": 160,
             "altitud-max": 2599,
             "paises-colindantes": {
@@ -214,7 +214,7 @@
             "key": 16,
             "pais": "Suiza",
             "capital": "Berna",
-            "población": 8921981,
+            "poblacion": 8921981,
             "area": 39516,
             "altitud-max": 4634,
             "paises-colindantes": {
@@ -228,7 +228,7 @@
             "key": 17,
             "pais": "Italia",
             "capital": "Roma",
-            "población": 59342867,
+            "poblacion": 59342867,
             "area": 294140,
             "altitud-max": 4810,
             "paises-colindantes": {
@@ -242,7 +242,7 @@
             "key": 18,
             "pais": "San Marino",
             "capital": "San Marino",
-            "población": 33581,
+            "poblacion": 33581,
             "area": 60,
             "altitud-max": 755,
             "paises-colindantes": {
@@ -256,7 +256,7 @@
             "key": 19,
             "pais": "Vaticano",
             "capital": "Ciudad del Vaticano",
-            "población": 0.896,
+            "poblacion": 0.896,
             "area": 0.5,
             "altitud-max": 76,
             "paises-colindantes": {
@@ -270,7 +270,7 @@
             "key": 20,
             "pais": "Malta",
             "capital": "La Valeta",
-            "población": 539607,
+            "poblacion": 539607,
             "area": 316,
             "altitud-max": 253,
             "paises-colindantes": {
@@ -284,7 +284,7 @@
             "key": 21,
             "pais": "Mónaco",
             "capital": "Ciudad de Mónaco",
-            "población": 38631,
+            "poblacion": 38631,
             "area": 1.5,
             "altitud-max": 161,
             "paises-colindantes": {
@@ -298,7 +298,7 @@
             "key": 22,
             "pais": "Francia",
             "capital": "París",
-            "población": 66584530,
+            "poblacion": 66584530,
             "area": 601681,
             "altitud-max": 4810,
             "paises-colindantes": {
@@ -312,7 +312,7 @@
             "key": 23,
             "pais": "Andorra",
             "capital": "Andorra la Vieja",
-            "población": 81938,
+            "poblacion": 81938,
             "area": 470,
             "altitud-max": 2942,
             "paises-colindantes": {
@@ -326,7 +326,7 @@
             "key": 24,
             "pais": "España",
             "capital": "Madrid",
-            "población": 47910526,
+            "poblacion": 47910526,
             "area": 503961,
             "altitud-max": 3718,
             "paises-colindantes": {
@@ -340,7 +340,7 @@
             "key": 25,
             "pais": "Portugal",
             "capital": "Lisboa",
-            "población": 10425292,
+            "poblacion": 10425292,
             "area": 91874,
             "altitud-max": 2351,
             "paises-colindantes": {
@@ -354,7 +354,7 @@
             "key": 26,
             "pais": "Irlanda",
             "capital": "Dublin",
-            "población": 5179398,
+            "poblacion": 5179398,
             "area": 69732,
             "altitud-max": 1038,
             "paises-colindantes": {
@@ -368,7 +368,7 @@
             "key": 27,
             "pais": "Reino Unido",
             "capital": "Londres",
-            "población": 67081000,
+            "poblacion": 67081000,
             "area": 242497,
             "altitud-max": 1344,
             "paises-colindantes": {
@@ -382,7 +382,7 @@
             "key": 28,
             "pais": "Islandia",
             "capital": "Reikiavik",
-            "población": 393396,
+            "poblacion": 393396,
             "area": 102002,
             "altitud-max": 2120,
             "paises-colindantes": {
@@ -396,7 +396,7 @@
             "key": 29,
             "pais": "Bélgica",
             "capital": "Bruselas",
-            "población": 11738763,
+            "poblacion": 11738763,
             "area": 30420,
             "altitud-max": 694,
             "paises-colindantes": {
@@ -410,12 +410,12 @@
             "key": 30,
             "pais": "Luxemburgo",
             "capital": "Ciudad de Luxemburgo",
-            "población": 671036,
+            "poblacion": 671036,
             "area": 2590,
             "altitud-max": 560,
             "paises-colindantes": {
                 "num": 3,
-                "paises": ["Francia", "Bruselas", "Alemania"],
+                "paises": ["Francia", "Belgium", "Alemania"],
                 "no-colindante": "Países Bajos"
             },
             "bandera": "https://flagcdn.com/192x144/lu.webp"
@@ -424,7 +424,7 @@
             "key": 31,
             "pais": "Países Bajos",
             "capital": "Ámsterdam",
-            "población": 18228742,
+            "poblacion": 18228742,
             "area": 38720,
             "altitud-max": 322,
             "paises-colindantes": {
@@ -438,12 +438,12 @@
             "key": 32,
             "pais": "Alemania",
             "capital": "Berlín",
-            "población": 84552242,
+            "poblacion": 84552242,
             "area": 353386,
             "altitud-max": 2962,
             "paises-colindantes": {
                 "num": 9,
-                "paises": ["Países Bajos", "Bruselas", "Francia", "Suiza", "Austria", "Luxemburgo", "Dinamarca", "Polonia", "República Checa" ],
+                "paises": ["Países Bajos", "Belgium", "Francia", "Suiza", "Austria", "Luxemburgo", "Dinamarca", "Polonia", "República Checa" ],
                 "no-colindante": "Serbia"
             },
             "bandera": "https://flagcdn.com/192x144/de.webp"
@@ -452,7 +452,7 @@
             "key": 33,
             "pais": "Dinamarca",
             "capital": "Copenhague",
-            "población": 5977412,
+            "poblacion": 5977412,
             "area": 42895,
             "altitud-max": 171,
             "paises-colindantes": {
@@ -466,7 +466,7 @@
             "key": 34,
             "pais": "Polonia",
             "capital": "Varsovia",
-            "población": 38539201,
+            "poblacion": 38539201,
             "area": 309230,
             "altitud-max": 2499,
             "paises-colindantes": {
@@ -480,7 +480,7 @@
             "key": 35,
             "pais": "Suecia",
             "capital": "Estocolmo",
-            "población": 10606999,
+            "poblacion": 10606999,
             "area": 430297,
             "altitud-max": 2104,
             "paises-colindantes": {
@@ -494,7 +494,7 @@
             "key": 36,
             "pais": "Noruega",
             "capital": "Oslo",
-            "población": 5576660,
+            "poblacion": 5576660,
             "area": 346268,
             "altitud-max": 2469,
             "paises-colindantes": {
@@ -508,7 +508,7 @@
             "key": 37,
             "pais": "Finlandia",
             "capital": "Helsinki",
-            "población": 5617310,
+            "poblacion": 5617310,
             "area": 318890,
             "altitud-max": 1324,
             "paises-colindantes": {
@@ -521,8 +521,8 @@
         {
             "key": 38,
             "pais": "Estonia",
-            "capital": "Tallin",
-            "población": 1360546,
+            "capital": "Tallín",
+            "poblacion": 1360546,
             "area": 43927,
             "altitud-max": 318,
             "paises-colindantes": {
@@ -536,7 +536,7 @@
             "key": 39,
             "pais": "Letonia",
             "capital": "Riga",
-            "población": 1871871,
+            "poblacion": 1871871,
             "area": 63558,
             "altitud-max": 312,
             "paises-colindantes": {
@@ -550,7 +550,7 @@
             "key": 40,
             "pais": "Lituania",
             "capital": "Vilna",
-            "población": 2859110,
+            "poblacion": 2859110,
             "area": 63674,
             "altitud-max": 294,
             "paises-colindantes": {
@@ -564,7 +564,7 @@
             "key": 41,
             "pais": "Bielorrusia",
             "capital": "Minsk",
-            "población": 9156696,
+            "poblacion": 9156696,
             "area": 204910,
             "altitud-max": 346,
             "paises-colindantes": {
@@ -578,7 +578,7 @@
             "key": 42,
             "pais": "Ucrania",
             "capital": "Kiev",
-            "población": 37860221,
+            "poblacion": 37860221,
             "area": 587320,
             "altitud-max": 2061,
             "paises-colindantes": {
@@ -592,7 +592,7 @@
             "key": 43,
             "pais": "Moldavia",
             "capital": "Chisináu",
-            "población": 2934961,
+            "poblacion": 2934961,
             "area": 33546,
             "altitud-max": 420,
             "paises-colindantes": {
@@ -608,7 +608,7 @@
             "key": 44,
             "pais": "Rusia",
             "capital": "Moscú",
-            "población": 144820423,
+            "poblacion": 144820423,
             "area": 16872349,
             "altitud-max": 5642,
             "paises-colindantes": {
@@ -622,7 +622,7 @@
             "key": 147,
             "pais": "Turquía",
             "capital": "Ankara",
-            "población": 86473805,
+            "poblacion": 86473805,
             "area": 777630,
             "altitud-max": 5137,
             "paises-colindantes": {
@@ -636,7 +636,7 @@
             "key": 148,
             "pais": "Georgia",
             "capital": "Tiflis",
-            "población": 3807670,
+            "poblacion": 3807670,
             "area": 69699,
             "altitud-max": 5193,
             "paises-colindantes": {
@@ -650,7 +650,7 @@
             "key": 149,
             "pais": "Azerbaiyán",
             "capital": "Bakú",
-            "población": 10336557,
+            "poblacion": 10336557,
             "area": 85699,
             "altitud-max": 4485,
             "paises-colindantes": {
@@ -664,7 +664,7 @@
             "key": 154,
             "pais": "Kazajistán",
             "capital": "Astaná",
-            "población": 20592571,
+            "poblacion": 20592571,
             "area": 2724911,
             "altitud-max": 7010,
             "paises-colindantes": {
@@ -680,7 +680,7 @@
             "key": 46,
             "pais": "Granada",
             "capital": "Saint George",
-            "población": 115000,
+            "poblacion": 115000,
             "area": 344,
             "altitud-max": 840,
             "paises-colindantes": {
@@ -694,7 +694,7 @@
             "key": 47,
             "pais": "San Vicente y las Granadinas",
             "capital": "Kingstown",
-            "población": 101323,
+            "poblacion": 101323,
             "area": 380,
             "altitud-max": 1234,
             "paises-colindantes": {
@@ -708,7 +708,7 @@
             "key": 48,
             "pais": "Barbados",
             "capital": "Bridgetown",
-            "población": 282336,
+            "poblacion": 282336,
             "area": 430,
             "altitud-max": 336,
             "paises-colindantes": {
@@ -722,7 +722,7 @@
             "key": 49,
             "pais": "Santa Lucía",
             "capital": "Castries",
-            "población": 179285,
+            "poblacion": 179285,
             "area": 616,
             "altitud-max": 950,
             "paises-colindantes": {
@@ -736,7 +736,7 @@
             "key": 50,
             "pais": "Dominica",
             "capital": "Roseau",
-            "población": 66510,
+            "poblacion": 66510,
             "area": 73,
             "altitud-max": 1447,
             "paises-colindantes": {
@@ -750,7 +750,7 @@
             "key": 51,
             "pais": "Antigua y Barbuda",
             "capital": "Saint John",
-            "población": 93316,
+            "poblacion": 93316,
             "area": 443,
             "altitud-max": 401,
             "paises-colindantes": {
@@ -764,7 +764,7 @@
             "key": 52,
             "pais": "San Cristobál y Nieves",
             "capital": "Basseterre",
-            "población": 46758,
+            "poblacion": 46758,
             "area": 262,
             "altitud-max": 1156,
             "paises-colindantes": {
@@ -778,7 +778,7 @@
             "key": 53,
             "pais": "República Dominicana",
             "capital": "Santo Domingo",
-            "población": 10709000,
+            "poblacion": 10709000,
             "area": 48671,
             "altitud-max": 3098,
             "paises-colindantes": {
@@ -792,7 +792,7 @@
             "key": 54,
             "pais": "Haití",
             "capital": "Puerto Príncipe",
-            "población": 11637398,
+            "poblacion": 11637398,
             "area": 27749,
             "altitud-max": 2680,
             "paises-colindantes": {
@@ -806,7 +806,7 @@
             "key": 55,
             "pais": "Cuba",
             "capital": "La Habana",
-            "población": 11019931,
+            "poblacion": 11019931,
             "area": 109883,
             "altitud-max": 1974,
             "paises-colindantes": {
@@ -820,7 +820,7 @@
             "key": 56,
             "pais": "Jamaica",
             "capital": "Kingston",
-            "población": 2839786,
+            "poblacion": 2839786,
             "area": 10992,
             "altitud-max": 2256,
             "paises-colindantes": {
@@ -834,7 +834,7 @@
             "key": 57,
             "pais": "Bahamas",
             "capital": "Nasáu",
-            "población": 339440,
+            "poblacion": 339440,
             "area": 13942,
             "altitud-max": 63,
             "paises-colindantes": {
@@ -848,7 +848,7 @@
             "key": 58,
             "pais": "Canadá",
             "capital": "Ottawa",
-            "población": 40097761,
+            "poblacion": 40097761,
             "area": 15634410,
             "altitud-max": 5959,
             "paises-colindantes": {
@@ -862,7 +862,7 @@
             "key": 59,
             "pais": "Estados Unidos",
             "capital": "Washington D.C.",
-            "población": 335135000,
+            "poblacion": 335135000,
             "area": 9831510,
             "altitud-max": 6194,
             "paises-colindantes": {
@@ -876,7 +876,7 @@
             "key": 60,
             "pais": "México",
             "capital": "Ciudad de México",
-            "población": 129739759,
+            "poblacion": 129739759,
             "area": 1964383,
             "altitud-max": 5636,
             "paises-colindantes": {
@@ -890,7 +890,7 @@
             "key": 61,
             "pais": "Guatemala",
             "capital": "Ciudad de Guatemala",
-            "población": 17602000,
+            "poblacion": 17602000,
             "area": 108889,
             "altitud-max": 4220,
             "paises-colindantes": {
@@ -904,7 +904,7 @@
             "key": 62,
             "pais": "Belice",
             "capital": "Belmopán",
-            "población": 411106,
+            "poblacion": 411106,
             "area": 22966,
             "altitud-max": 1124,
             "paises-colindantes": {
@@ -918,7 +918,7 @@
             "key": 63,
             "pais": "El Salvador",
             "capital": "San Salvador",
-            "población": 6365000,
+            "poblacion": 6365000,
             "area": 21041,
             "altitud-max": 2730,
             "paises-colindantes": {
@@ -932,7 +932,7 @@
             "key": 64,
             "pais": "Honduras",
             "capital": "Tegucigalpa",
-            "población": 10475000,
+            "poblacion": 10475000,
             "area": 112491,
             "altitud-max": 2670,
             "paises-colindantes": {
@@ -946,7 +946,7 @@
             "key": 65,
             "pais": "Nicaragua",
             "capital": "Managua",
-            "población": 6823613,
+            "poblacion": 6823613,
             "area": 130373,
             "altitud-max": 2107,
             "paises-colindantes": {
@@ -960,7 +960,7 @@
             "key": 66,
             "pais": "Costa Rica",
             "capital": "San José",
-            "población": 5278000,
+            "poblacion": 5278000,
             "area": 51101,
             "altitud-max": 3820,
             "paises-colindantes": {
@@ -974,7 +974,7 @@
             "key": 67,
             "pais": "Panamá",
             "capital": "Ciudad de Panamá",
-            "población": 4453000,
+            "poblacion": 4453000,
             "area": 75418,
             "altitud-max": 3475,
             "paises-colindantes": {
@@ -990,7 +990,7 @@
             "key": 45,
             "pais": "Trinidad y Tobago",
             "capital": "Puerto España",
-            "población": 1367510,
+            "poblacion": 1367510,
             "area": 5131,
             "altitud-max": 940,
             "paises-colindantes": {
@@ -1004,7 +1004,7 @@
             "key": 68,
             "pais": "Colombia",
             "capital": "Bogotá",
-            "población": 52216000,
+            "poblacion": 52216000,
             "area": 1141752,
             "altitud-max": 5700,
             "paises-colindantes": {
@@ -1018,7 +1018,7 @@
             "key": 69,
             "pais": "Venezuela",
             "capital": "Caracas",
-            "población": 28300854,
+            "poblacion": 28300854,
             "area": 912050,
             "altitud-max": 4981,
             "paises-colindantes": {
@@ -1032,7 +1032,7 @@
             "key": 70,
             "pais": "Guyana",
             "capital": "Geirgetown",
-            "población": 826353,
+            "poblacion": 826353,
             "area": 214970,
             "altitud-max": 2750,
             "paises-colindantes": {
@@ -1046,7 +1046,7 @@
             "key": 71,
             "pais": "Surinam",
             "capital": "Paramaribo",
-            "población": 628886,
+            "poblacion": 628886,
             "area": 163820,
             "altitud-max": 1230,
             "paises-colindantes": {
@@ -1060,7 +1060,7 @@
             "key": 72,
             "pais": "Ecuador",
             "capital": "Quito",
-            "población": 17980083,
+            "poblacion": 17980083,
             "area": 256370,
             "altitud-max": 6267,
             "paises-colindantes": {
@@ -1074,7 +1074,7 @@
             "key": 73,
             "pais": "Perú",
             "capital": "Lima",
-            "población": 33845617,
+            "poblacion": 33845617,
             "area": 1285220,
             "altitud-max": 6768,
             "paises-colindantes": {
@@ -1088,7 +1088,7 @@
             "key": 74,
             "pais": "Brasil",
             "capital": "Brasilia",
-            "población": 211695000,
+            "poblacion": 211695000,
             "area": 8515803,
             "altitud-max": 2994,
             "paises-colindantes": {
@@ -1102,7 +1102,7 @@
             "key": 75,
             "pais": "Bolivia",
             "capital": "Sucre / La Paz",
-            "población": 12244159,
+            "poblacion": 12244159,
             "area": 1098585,
             "altitud-max": 6542,
             "paises-colindantes": {
@@ -1116,7 +1116,7 @@
             "key": 76,
             "pais": "Paraguay",
             "capital": "Asunción",
-            "población": 6844146,
+            "poblacion": 6844146,
             "area": 406754,
             "altitud-max": 842,
             "paises-colindantes": {
@@ -1130,7 +1130,7 @@
             "key": 77,
             "pais": "Uruguay",
             "capital": "Montevideo",
-            "población": 3388081,
+            "poblacion": 3388081,
             "area": 176216,
             "altitud-max": 514,
             "paises-colindantes": {
@@ -1144,7 +1144,7 @@
             "key": 78,
             "pais": "Argentina",
             "capital": "Buenos Aires",
-            "población": 45538401,
+            "poblacion": 45538401,
             "area": 2780412,
             "altitud-max": 6960,
             "paises-colindantes": {
@@ -1158,7 +1158,7 @@
             "key": 79,
             "pais": "Chile",
             "capital": "Santiago",
-            "población": 19658835,
+            "poblacion": 19658835,
             "area": 756106,
             "altitud-max": 6893,
             "paises-colindantes": {
@@ -1174,7 +1174,7 @@
             "key": 80,
             "pais": "Senegal",
             "capital": "Dakar",
-            "población": 18501984,
+            "poblacion": 18501984,
             "area": 194530,
             "altitud-max": 581,
             "paises-colindantes": {
@@ -1188,7 +1188,7 @@
             "key": 81,
             "pais": "Gambia",
             "capital": "Banjul",
-            "población": 2759988,
+            "poblacion": 2759988,
             "area": 10820,
             "altitud-max": 53,
             "paises-colindantes": {
@@ -1202,7 +1202,7 @@
             "key": 82,
             "pais": "Guinea Bissau",
             "capital": "Bissau",
-            "población": 19878352,
+            "poblacion": 19878352,
             "area": 31120,
             "altitud-max": 300,
             "paises-colindantes": {
@@ -1216,7 +1216,7 @@
             "key": 83,
             "pais": "Guinea",
             "capital": "Conarki",
-            "población": 14754785,
+            "poblacion": 14754785,
             "area": 245858,
             "altitud-max": 1752,
             "paises-colindantes": {
@@ -1230,7 +1230,7 @@
             "key": 84,
             "pais": "Sierra Leona",
             "capital": "Freetown",
-            "población": 8642022,
+            "poblacion": 8642022,
             "area": 71740,
             "altitud-max": 1948,
             "paises-colindantes": {
@@ -1244,7 +1244,7 @@
             "key": 85,
             "pais": "Liberia",
             "capital": "Monrovia",
-            "población": 5612817,
+            "poblacion": 5612817,
             "area": 107520,
             "altitud-max": 1440,
             "paises-colindantes": {
@@ -1258,7 +1258,7 @@
             "key": 86,
             "pais": "Costa de Marfil",
             "capital": "Yamusukro / Abiyán",
-            "población": 31934230,
+            "poblacion": 31934230,
             "area": 319490,
             "altitud-max": 1752,
             "paises-colindantes": {
@@ -1272,7 +1272,7 @@
             "key": 87,
             "pais": "Burkina Faso",
             "capital": "Uagadugú",
-            "población": 28548781,
+            "poblacion": 28548781,
             "area": 273986,
             "altitud-max": 749,
             "paises-colindantes": {
@@ -1286,7 +1286,7 @@
             "key": 88,
             "pais": "Ghana",
             "capital": "Acra",
-            "población": 33427414,
+            "poblacion": 33427414,
             "area": 233540,
             "altitud-max": 880,
             "paises-colindantes": {
@@ -1300,7 +1300,7 @@
             "key": 89,
             "pais": "Togo",
             "capital": "Lomé",
-            "población": 9215236,
+            "poblacion": 9215236,
             "area": 55390,
             "altitud-max": 986,
             "paises-colindantes": {
@@ -1314,7 +1314,7 @@
             "key": 90,
             "pais": "Benin",
             "capital": "Porto Novo / Cotonú",
-            "población": 13462724,
+            "poblacion": 13462724,
             "area": 113760,
             "altitud-max": 658,
             "paises-colindantes": {
@@ -1328,7 +1328,7 @@
             "key": 91,
             "pais": "Nigeria",
             "capital": "Abuya",
-            "población": 228679478,
+            "poblacion": 228679478,
             "area": 918770,
             "altitud-max": 2419,
             "paises-colindantes": {
@@ -1342,7 +1342,7 @@
             "key": 92,
             "pais": "Camerún",
             "capital": "Yaundé",
-            "población": 28123744,
+            "poblacion": 28123744,
             "area": 473444,
             "altitud-max": 4040,
             "paises-colindantes": {
@@ -1356,7 +1356,7 @@
             "key": 93,
             "pais": "República Centroafricana",
             "capital": "Bangui",
-            "población": 5430690,
+            "poblacion": 5430690,
             "area": 622980,
             "altitud-max": 1420,
             "paises-colindantes": {
@@ -1370,7 +1370,7 @@
             "key": 94,
             "pais": "República Democrática del Congo",
             "capital": "Kinsasa",
-            "población": 106276265,
+            "poblacion": 106276265,
             "area": 2367050,
             "altitud-max": 5110,
             "paises-colindantes": {
@@ -1384,7 +1384,7 @@
             "key": 95,
             "pais": "Congo",
             "capital": "Brazzaville",
-            "población": 6332961,
+            "poblacion": 6332961,
             "area": 341876,
             "altitud-max": 1020,
             "paises-colindantes": {
@@ -1398,7 +1398,7 @@
             "key": 96,
             "pais": "Gabón",
             "capital": "Libreville",
-            "población": 2438952,
+            "poblacion": 2438952,
             "area": 263670,
             "altitud-max": 1070,
             "paises-colindantes": {
@@ -1412,7 +1412,7 @@
             "key": 97,
             "pais": "Guinea Ecuatorial",
             "capital": "Malabo",
-            "población": 1792516,
+            "poblacion": 1792516,
             "area": 28050,
             "altitud-max": 3008,
             "paises-colindantes": {
@@ -1426,7 +1426,7 @@
             "key": 98,
             "pais": "Santo Tomé y Príncipe",
             "capital": "Santo Tomé",
-            "población": 225536,
+            "poblacion": 225536,
             "area": 961,
             "altitud-max": 2024,
             "paises-colindantes": {
@@ -1440,7 +1440,7 @@
             "key": 99,
             "pais": "Angola",
             "capital": "Luanda",
-            "población": 36885849,
+            "poblacion": 36885849,
             "area": 1246700,
             "altitud-max": 2620,
             "paises-colindantes": {
@@ -1454,7 +1454,7 @@
             "key": 100,
             "pais": "Namibia",
             "capital": "Windhoek",
-            "población": 2928000,
+            "poblacion": 2928000,
             "area": 825619,
             "altitud-max": 2606,
             "paises-colindantes": {
@@ -1468,7 +1468,7 @@
             "key": 101,
             "pais": "Botsuana",
             "capital": "Gaborone",
-            "población": 2480244,
+            "poblacion": 2480244,
             "area": 581732,
             "altitud-max": 1491,
             "paises-colindantes": {
@@ -1482,7 +1482,7 @@
             "key": 102,
             "pais": "Sudáfrica",
             "capital": "Ciudad del Cabo / Pretoria / Bloemfontein",
-            "población": 63212384,
+            "poblacion": 63212384,
             "area": 1221043,
             "altitud-max": 3450,
             "paises-colindantes": {
@@ -1496,7 +1496,7 @@
             "key": 103,
             "pais": "Lesotho",
             "capital": "Maseru",
-            "población": 2311472,
+            "poblacion": 2311472,
             "area": 30355,
             "altitud-max": 3482,
             "paises-colindantes": {
@@ -1510,7 +1510,7 @@
             "key": 104,
             "pais": "Esuatini",
             "capital": "Lobamba / Mbabane",
-            "población": 1230506,
+            "poblacion": 1230506,
             "area": 17363,
             "altitud-max": 1862,
             "paises-colindantes": {
@@ -1524,7 +1524,7 @@
             "key": 105,
             "pais": "Mozambique",
             "capital": "Maputo",
-            "población": 33635160,
+            "poblacion": 33635160,
             "area": 801595,
             "altitud-max": 2436,
             "paises-colindantes": {
@@ -1538,7 +1538,7 @@
             "key": 106,
             "pais": "Madagascar",
             "capital": "Antananarivo",
-            "población": 31195932,
+            "poblacion": 31195932,
             "area": 587044,
             "altitud-max": 2876,
             "paises-colindantes": {
@@ -1552,7 +1552,7 @@
             "key": 107,
             "pais": "Mauricio",
             "capital": "Port Louis",
-            "población": 1261041,
+            "poblacion": 1261041,
             "area": 2041,
             "altitud-max": 828,
             "paises-colindantes": {
@@ -1566,7 +1566,7 @@
             "key": 108,
             "pais": "Seychelles",
             "capital": "Victoria",
-            "población": 100000,
+            "poblacion": 100000,
             "area": 453,
             "altitud-max": 905,
             "paises-colindantes": {
@@ -1580,7 +1580,7 @@
             "key": 109,
             "pais": "Comoras",
             "capital": "Moroni",
-            "población": 850387,
+            "poblacion": 850387,
             "area": 1862,
             "altitud-max": 2360,
             "paises-colindantes": {
@@ -1594,7 +1594,7 @@
             "key": 110,
             "pais": "Zimbabue",
             "capital": "Harare",
-            "población": 16340822,
+            "poblacion": 16340822,
             "area": 390758,
             "altitud-max": 2592,
             "paises-colindantes": {
@@ -1608,7 +1608,7 @@
             "key": 111,
             "pais": "Zambia",
             "capital": "Lusaka",
-            "población": 20723965,
+            "poblacion": 20723965,
             "area": 752615,
             "altitud-max": 2329,
             "paises-colindantes": {
@@ -1622,7 +1622,7 @@
             "key": 112,
             "pais": "Malaui",
             "capital": "Lilongüe",
-            "población": 21104482,
+            "poblacion": 21104482,
             "area": 118485,
             "altitud-max": 3002,
             "paises-colindantes": {
@@ -1636,7 +1636,7 @@
             "key": 113,
             "pais": "Tanzania",
             "capital": "Dodoma / Dar es-Salam",
-            "población": 66617606,
+            "poblacion": 66617606,
             "area": 945091,
             "altitud-max": 5892,
             "paises-colindantes": {
@@ -1650,7 +1650,7 @@
             "key": 114,
             "pais": "Burundi",
             "capital": "Guitega",
-            "población": 13689450,
+            "poblacion": 13689450,
             "area": 27835,
             "altitud-max": 2684,
             "paises-colindantes": {
@@ -1664,7 +1664,7 @@
             "key": 115,
             "pais": "Ruanda",
             "capital": "Kigali",
-            "población": 13954471,
+            "poblacion": 13954471,
             "area": 26338,
             "altitud-max": 4519,
             "paises-colindantes": {
@@ -1678,7 +1678,7 @@
             "key": 116,
             "pais": "Uganda",
             "capital": "Kampala",
-            "población": 48656601,
+            "poblacion": 48656601,
             "area": 241551,
             "altitud-max": 5110,
             "paises-colindantes": {
@@ -1692,7 +1692,7 @@
             "key": 117,
             "pais": "Kenia",
             "capital": "Nairobi",
-            "población": 55339003,
+            "poblacion": 55339003,
             "area": 580370,
             "altitud-max": 5199,
             "paises-colindantes": {
@@ -1706,7 +1706,7 @@
             "key": 118,
             "pais": "Somalia",
             "capital": "Mogadiscio",
-            "población": 18358615,
+            "poblacion": 18358615,
             "area": 637661,
             "altitud-max": 2450,
             "paises-colindantes": {
@@ -1720,7 +1720,7 @@
             "key": 119,
             "pais": "Yibuti",
             "capital": "Yibuti",
-            "población": 1152944,
+            "poblacion": 1152944,
             "area": 23201,
             "altitud-max": 2028,
             "paises-colindantes": {
@@ -1734,7 +1734,7 @@
             "key": 120,
             "pais": "Eritrea",
             "capital": "Asmara",
-            "población": 3470390,
+            "poblacion": 3470390,
             "area": 117602,
             "altitud-max": 3018,
             "paises-colindantes": {
@@ -1748,7 +1748,7 @@
             "key": 121,
             "pais": "Etipoía",
             "capital": "Adis Abeba",
-            "población": 128691692,
+            "poblacion": 128691692,
             "area": 1104303,
             "altitud-max": 4550,
             "paises-colindantes": {
@@ -1762,7 +1762,7 @@
             "key": 122,
             "pais": "Sudán del Sur",
             "capital": "Yuba",
-            "población": 11483374,
+            "poblacion": 11483374,
             "area": 644332,
             "altitud-max": 3187,
             "paises-colindantes": {
@@ -1776,7 +1776,7 @@
             "key": 123,
             "pais": "Sudán",
             "capital": "Jartum",
-            "población": 50042791,
+            "poblacion": 50042791,
             "area": 1861493,
             "altitud-max": 3042,
             "paises-colindantes": {
@@ -1790,7 +1790,7 @@
             "key": 124,
             "pais": "Chad",
             "capital": "Yamena",
-            "población": 19319064,
+            "poblacion": 19319064,
             "area": 1284005,
             "altitud-max": 3445,
             "paises-colindantes": {
@@ -1804,7 +1804,7 @@
             "key": 125,
             "pais": "Níger",
             "capital": "Niamey",
-            "población": 26159867,
+            "poblacion": 26159867,
             "area": 1267005,
             "altitud-max": 2022,
             "paises-colindantes": {
@@ -1818,7 +1818,7 @@
             "key": 126,
             "pais": "Malí",
             "capital": "Bamako",
-            "población": 23769127,
+            "poblacion": 23769127,
             "area": 1240198,
             "altitud-max": 1155,
             "paises-colindantes": {
@@ -1832,7 +1832,7 @@
             "key": 127,
             "pais": "Mauritania",
             "capital": "Nuakchot",
-            "población": 5022441,
+            "poblacion": 5022441,
             "area": 1030703,
             "altitud-max": 915,
             "paises-colindantes": {
@@ -1846,7 +1846,7 @@
             "key": 128,
             "pais": "Cabo Verde",
             "capital": "Praia",
-            "población": 522331,
+            "poblacion": 522331,
             "area": 4033,
             "altitud-max": 2829,
             "paises-colindantes": {
@@ -1860,7 +1860,7 @@
             "key": 129,
             "pais": "Marruecos",
             "capital": "Rabat",
-            "población": 37022000,
+            "poblacion": 37022000,
             "area": 446552,
             "altitud-max": 4167,
             "paises-colindantes": {
@@ -1874,7 +1874,7 @@
             "key": 130,
             "pais": "Argelia",
             "capital": "Argel",
-            "población": 46164219,
+            "poblacion": 46164219,
             "area": 2381751,
             "altitud-max": 3003,
             "paises-colindantes": {
@@ -1888,7 +1888,7 @@
             "key": 131,
             "pais": "Túnez",
             "capital": "Túnez",
-            "población": 12200431,
+            "poblacion": 12200431,
             "area": 163610,
             "altitud-max": 1544,
             "paises-colindantes": {
@@ -1902,7 +1902,7 @@
             "key": 132,
             "pais": "Libia",
             "capital": "Trípoli",
-            "población": 7305659,
+            "poblacion": 7305659,
             "area": 1759548,
             "altitud-max": 2267,
             "paises-colindantes": {
@@ -1918,7 +1918,7 @@
             "key": 133,
             "pais": "Egipto",
             "capital": "El Cairo",
-            "población": 105200000,
+            "poblacion": 105200000,
             "area": 1002454,
             "altitud-max": 2629,
             "paises-colindantes": {
@@ -1934,7 +1934,7 @@
             "key": 134,
             "pais": "Yemen",
             "capital": "Saná / Adén",
-            "población": 37583164,
+            "poblacion": 37583164,
             "area": 527972,
             "altitud-max": 3666,
             "paises-colindantes": {
@@ -1948,7 +1948,7 @@
             "key": 135,
             "pais": "Omán",
             "capital": "Mascate",
-            "población": 5281538,
+            "poblacion": 5281538,
             "area": 309500,
             "altitud-max": 2980,
             "paises-colindantes": {
@@ -1962,7 +1962,7 @@
             "key": 136,
             "pais": "Emiratos Árabes Unidos",
             "capital": "Abu Dabi",
-            "población": 10827129,
+            "poblacion": 10827129,
             "area": 83600,
             "altitud-max": 1910,
             "paises-colindantes": {
@@ -1976,7 +1976,7 @@
             "key": 137,
             "pais": "Qatar",
             "capital": "Doha",
-            "población": 3048423,
+            "poblacion": 3048423,
             "area": 11595,
             "altitud-max": 103,
             "paises-colindantes": {
@@ -1990,7 +1990,7 @@
             "key": 138,
             "pais": "Baréin",
             "capital": "Manama",
-            "población": 1607049,
+            "poblacion": 1607049,
             "area": 762,
             "altitud-max": 134,
             "paises-colindantes": {
@@ -2004,7 +2004,7 @@
             "key": 139,
             "pais": "Arabia Saudita",
             "capital": "Riad",
-            "población": 33962757,
+            "poblacion": 33962757,
             "area": 2149700,
             "altitud-max": 3000,
             "paises-colindantes": {
@@ -2018,7 +2018,7 @@
             "key": 140,
             "pais": "Kuwait",
             "capital": "Ciudad de Kuwait",
-            "población": 4834507,
+            "poblacion": 4834507,
             "area": 17819,
             "altitud-max": 306,
             "paises-colindantes": {
@@ -2032,7 +2032,7 @@
             "key": 141,
             "pais": "Israel",
             "capital": "Jerusalén",
-            "población": 9587021,
+            "poblacion": 9587021,
             "area": 21169,
             "altitud-max": 1208,
             "paises-colindantes": {
@@ -2046,7 +2046,7 @@
             "key": 142,
             "pais": "Jordania",
             "capital": "Amán",
-            "población": 11502876,
+            "poblacion": 11502876,
             "area": 89142,
             "altitud-max": 1854,
             "paises-colindantes": {
@@ -2060,7 +2060,7 @@
             "key": 143,
             "pais": "Líbano",
             "capital": "Beirut",
-            "población": 5705962,
+            "poblacion": 5705962,
             "area": 10339,
             "altitud-max": 3088,
             "paises-colindantes": {
@@ -2074,7 +2074,7 @@
             "key": 144,
             "pais": "Chipre",
             "capital": "Nicosia",
-            "población": 1358282,
+            "poblacion": 1358282,
             "area": 9247,
             "altitud-max": 1951,
             "paises-colindantes": {
@@ -2087,7 +2087,7 @@
             "key": 145,
             "pais": "Siria",
             "capital": "Damasco",
-            "población": 23672760,
+            "poblacion": 23672760,
             "area": 184640,
             "altitud-max": 2814,
             "paises-colindantes": {
@@ -2101,7 +2101,7 @@
             "key": 146,
             "pais": "Irak",
             "capital": "Bagdad",
-            "población": 44042015,
+            "poblacion": 44042015,
             "area": 426320,
             "altitud-max": 3611,
             "paises-colindantes": {
@@ -2115,7 +2115,7 @@
             "key": 150,
             "pais": "Armenia",
             "capital": "Ereván",
-            "población": 29170,
+            "poblacion": 29170,
             "area": 17819,
             "altitud-max": 4090,
             "paises-colindantes": {
@@ -2129,7 +2129,7 @@
             "key": 151,
             "pais": "Irán",
             "capital": "Teherán",
-            "población": 89567738,
+            "poblacion": 89567738,
             "area": 1638550,
             "altitud-max": 5610,
             "paises-colindantes": {
@@ -2143,7 +2143,7 @@
             "key": 152,
             "pais": "Turkmenistán",
             "capital": "Asjabad",
-            "población": 6994498,
+            "poblacion": 6994498,
             "area": 479930,
             "altitud-max": 3139,
             "paises-colindantes": {
@@ -2157,7 +2157,7 @@
             "key": 153,
             "pais": "Uzbekistán",
             "capital": "Taskent",
-            "población": 36361859,
+            "poblacion": 36361859,
             "area": 437400,
             "altitud-max": 4643,
             "paises-colindantes": {
@@ -2171,7 +2171,7 @@
             "key": 155,
             "pais": "Kirguistán",
             "capital": "Biskek",
-            "población": 7186009,
+            "poblacion": 7186009,
             "area": 196951,
             "altitud-max": 7439,
             "paises-colindantes": {
@@ -2185,7 +2185,7 @@
             "key": 156,
             "pais": "Tayikistán",
             "capital": "AstDusambéaná",
-            "población": 10090927,
+            "poblacion": 10090927,
             "area": 141960,
             "altitud-max": 7495,
             "paises-colindantes": {
@@ -2199,7 +2199,7 @@
             "key": 157,
             "pais": "Afganistán",
             "capital": "Kabul",
-            "población": 41647492,
+            "poblacion": 41647492,
             "area": 652630,
             "altitud-max": 7492,
             "paises-colindantes": {
@@ -2213,7 +2213,7 @@
             "key": 158,
             "pais": "Pakistán",
             "capital": "Islamabad",
-            "población": 248269164,
+            "poblacion": 248269164,
             "area": 884880,
             "altitud-max": 8610,
             "paises-colindantes": {
@@ -2227,7 +2227,7 @@
             "key": 159,
             "pais": "India",
             "capital": "Nueva Delhi",
-            "población": 1450935791,
+            "poblacion": 1450935791,
             "area": 3187277,
             "altitud-max": 8585,
             "paises-colindantes": {
@@ -2241,7 +2241,7 @@
             "key": 160,
             "pais": "Sri Lanka",
             "capital": "Sri Jayawardenapura Kotte / Colombo",
-            "población": 29103565,
+            "poblacion": 29103565,
             "area": 64710,
             "altitud-max": 2524,
             "paises-colindantes": {
@@ -2255,7 +2255,7 @@
             "key": 161,
             "pais": "Maldivas",
             "capital": "Malé",
-            "población": 524799,
+            "poblacion": 524799,
             "area": 300,
             "altitud-max": 2,
             "paises-colindantes": {
@@ -2269,7 +2269,7 @@
             "key": 162,
             "pais": "Nepal",
             "capital": "Katmandú",
-            "población": 29651054,
+            "poblacion": 29651054,
             "area": 145350,
             "altitud-max": 8848,
             "paises-colindantes": {
@@ -2283,7 +2283,7 @@
             "key": 163,
             "pais": "Bután",
             "capital": "Timbu",
-            "población": 78562,
+            "poblacion": 78562,
             "area": 38269,
             "altitud-max": 7570,
             "paises-colindantes": {
@@ -2297,7 +2297,7 @@
             "key": 164,
             "pais": "Bangladesh",
             "capital": "Daca",
-            "población": 172562364,
+            "poblacion": 172562364,
             "area": 139570,
             "altitud-max": 1052,
             "paises-colindantes": {
@@ -2311,7 +2311,7 @@
             "key": 165,
             "pais": "Myanmar",
             "capital": "Naipyido",
-            "población": 59500091,
+            "poblacion": 59500091,
             "area": 665581,
             "altitud-max": 5881,
             "paises-colindantes": {
@@ -2325,7 +2325,7 @@
             "key": 166,
             "pais": "Tailandia",
             "capital": "Bangkok",
-            "población": 69668,
+            "poblacion": 69668,
             "area": 512890,
             "altitud-max": 2565,
             "paises-colindantes": {
@@ -2339,7 +2339,7 @@
             "key": 167,
             "pais": "Malasia",
             "capital": "Huala Lampur / Putrajaya",
-            "población": 35157673,
+            "poblacion": 35157673,
             "area": 329550,
             "altitud-max": 4095,
             "paises-colindantes": {
@@ -2353,7 +2353,7 @@
             "key": 168,
             "pais": "Singapur",
             "capital": "Singapur",
-            "población": 5732387,
+            "poblacion": 5732387,
             "area": 710,
             "altitud-max": 164,
             "paises-colindantes": {
@@ -2367,7 +2367,7 @@
             "key": 170,
             "pais": "Timor Oriental",
             "capital": "Dili",
-            "población": 1400638,
+            "poblacion": 1400638,
             "area": 14970,
             "altitud-max": 2963,
             "paises-colindantes": {
@@ -2381,7 +2381,7 @@
             "key": 171,
             "pais": "Brunei",
             "capital": "Bandar Seri Begawan",
-            "población": 465721,
+            "poblacion": 465721,
             "area": 5570,
             "altitud-max": 1850,
             "paises-colindantes": {
@@ -2395,7 +2395,7 @@
             "key": 172,
             "pais": "Filipinas",
             "capital": "Manila",
-            "población": 113843760,
+            "poblacion": 113843760,
             "area": 307180,
             "altitud-max": 2954,
             "paises-colindantes": {
@@ -2409,7 +2409,7 @@
             "key": 173,
             "pais": "Vietnam",
             "capital": "Hanói",
-            "población": 100987686,
+            "poblacion": 100987686,
             "area": 325070,
             "altitud-max": 3143,
             "paises-colindantes": {
@@ -2423,7 +2423,7 @@
             "key": 174,
             "pais": "Camboya",
             "capital": "Nom Pen",
-            "población": 16638801,
+            "poblacion": 16638801,
             "area": 179520,
             "altitud-max": 1810,
             "paises-colindantes": {
@@ -2437,7 +2437,7 @@
             "key": 175,
             "pais": "Laos",
             "capital": "Vientián",
-            "población": 7769819,
+            "poblacion": 7769819,
             "area": 233800,
             "altitud-max": 2817,
             "paises-colindantes": {
@@ -2451,7 +2451,7 @@
             "key": 176,
             "pais": "China",
             "capital": "Pekín",
-            "población": 1419321278,
+            "poblacion": 1419321278,
             "area": 9497211,
             "altitud-max": 8848,
             "paises-colindantes": {
@@ -2465,7 +2465,7 @@
             "key": 177,
             "pais": "Mongolia",
             "capital": "Ulán Bator",
-            "población": 3575540,
+            "poblacion": 3575540,
             "area": 1558560,
             "altitud-max": 4374,
             "paises-colindantes": {
@@ -2479,7 +2479,7 @@
             "key": 178,
             "pais": "Corea del Norte",
             "capital": "Pionyang",
-            "población": 26498823,
+            "poblacion": 26498823,
             "area": 120497,
             "altitud-max": 2744,
             "paises-colindantes": {
@@ -2493,7 +2493,7 @@
             "key": 179,
             "pais": "Corea del Sur",
             "capital": "Seúl",
-            "población": 51717590,
+            "poblacion": 51717590,
             "area": 99230,
             "altitud-max": 1950,
             "paises-colindantes": {
@@ -2507,7 +2507,7 @@
             "key": 180,
             "pais": "Japón",
             "capital": "Tokio",
-            "población": 123753041,
+            "poblacion": 123753041,
             "area": 371933,
             "altitud-max": 3776,
             "paises-colindantes": {
@@ -2516,12 +2516,30 @@
                 "no-colindante": ""
             },
             "bandera": "https://flagcdn.com/192x144/jp.webp"
-        },
+        }
+    ],
+    "ocean-asia": [
+        {
+            "key": 169,
+            "pais": "Indonesia",
+            "capital": "Yakarta",
+            "poblacion": 281487931,
+            "area": 1867570,
+            "altitud-max": 4884,
+            "paises-colindantes": {
+                "num": 3,
+                "paises": ["Timor Oriental", "Malasia", "Papúa Nueva Guinea"],
+                "no-colindante": "Tailandia"
+            },
+            "bandera": "https://flagcdn.com/192x144/id.webp"
+        }
+    ],
+    "oceania": [
         {
             "key": 181,
             "pais": "Palaos",
             "capital": "Ngerulmud",
-            "población": 17695,
+            "poblacion": 17695,
             "area": 460,
             "altitud-max": 242,
             "paises-colindantes": {
@@ -2535,7 +2553,7 @@
             "key": 182,
             "pais": "Estados Federados de Micronesia",
             "capital": "Palikir",
-            "población": 426923,
+            "poblacion": 426923,
             "area": 702,
             "altitud-max": 791,
             "paises-colindantes": {
@@ -2549,7 +2567,7 @@
             "key": 183,
             "pais": "Islas Marshall",
             "capital": "Majuro",
-            "población": 38554,
+            "poblacion": 38554,
             "area": 180,
             "altitud-max": 10,
             "paises-colindantes": {
@@ -2563,7 +2581,7 @@
             "key": 184,
             "pais": "Nauru",
             "capital": "Yaren",
-            "población": 11947,
+            "poblacion": 11947,
             "area": 21,
             "altitud-max": 71,
             "paises-colindantes": {
@@ -2577,7 +2595,7 @@
             "key": 185,
             "pais": "Kiribatia",
             "capital": "Tarawa",
-            "población": 129518,
+            "poblacion": 129518,
             "area": 811,
             "altitud-max": 81,
             "paises-colindantes": {
@@ -2591,7 +2609,7 @@
             "key": 186,
             "pais": "Samoa",
             "capital": "Apia",
-            "población": 214859,
+            "poblacion": 214859,
             "area": 2839,
             "altitud-max": 1857,
             "paises-colindantes": {
@@ -2605,7 +2623,7 @@
             "key": 187,
             "pais": "Tuvalu",
             "capital": "Funafuti",
-            "población": 9646,
+            "poblacion": 9646,
             "area": 28,
             "altitud-max": 5,
             "paises-colindantes": {
@@ -2619,7 +2637,7 @@
             "key": 188,
             "pais": "Tonga",
             "capital": "Nukualofa",
-            "población": 104175,
+            "poblacion": 104175,
             "area": 734,
             "altitud-max": 1033,
             "paises-colindantes": {
@@ -2633,7 +2651,7 @@
             "key": 189,
             "pais": "Fiyi",
             "capital": "Suva",
-            "población": 928734,
+            "poblacion": 928734,
             "area": 18272,
             "altitud-max": 1324,
             "paises-colindantes": {
@@ -2647,7 +2665,7 @@
             "key": 190,
             "pais": "Vanuatu",
             "capital": "Port Vila",
-            "población": 321777,
+            "poblacion": 321777,
             "area": 12190,
             "altitud-max": 1879,
             "paises-colindantes": {
@@ -2661,7 +2679,7 @@
             "key": 191,
             "pais": "Islas Salomón",
             "capital": "Honiara",
-            "población": 798198,
+            "poblacion": 798198,
             "area": 28269,
             "altitud-max": 2335,
             "paises-colindantes": {
@@ -2675,7 +2693,7 @@
             "key": 192,
             "pais": "Papúa Nueva Guinea",
             "capital": "Puerto Moresby",
-            "población": 10576502,
+            "poblacion": 10576502,
             "area": 458841,
             "altitud-max": 4509,
             "paises-colindantes": {
@@ -2689,7 +2707,7 @@
             "key": 193,
             "pais": "Australia",
             "capital": "Canberra",
-            "población": 26713205,
+            "poblacion": 26713205,
             "area": 7689254,
             "altitud-max": 2745,
             "paises-colindantes": {
@@ -2703,7 +2721,7 @@
             "key": 194,
             "pais": "Nueva Zelanda",
             "capital": "Wellington",
-            "población": 5213944,
+            "poblacion": 5213944,
             "area": 267469,
             "altitud-max": 3754,
             "paises-colindantes": {
@@ -2713,24 +2731,5 @@
             },
             "bandera": "https://flagcdn.com/192x144/nz.webp"
         }
-    ],
-    "ocean-asia": [
-        {
-            "key": 169,
-            "pais": "Indonesia",
-            "capital": "Yakarta",
-            "población": 281487931,
-            "area": 1867570,
-            "altitud-max": 4884,
-            "paises-colindantes": {
-                "num": 3,
-                "paises": ["Timor Oriental", "Malasia", "Papúa Nueva Guinea"],
-                "no-colindante": "Tailandia"
-            },
-            "bandera": "https://flagcdn.com/192x144/id.webp"
-        }
-    ],
-    "oceania": [
-
     ]
 }
