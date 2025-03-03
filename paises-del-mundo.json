@@ -1031,7 +1031,7 @@
         {
             "key": 70,
             "pais": "Guyana",
-            "capital": "Geirgetown",
+            "capital": "Georgetown",
             "poblacion": 826353,
             "area": 214970,
             "altitud-max": 2750,
@@ -1101,7 +1101,7 @@
         {
             "key": 75,
             "pais": "Bolivia",
-            "capital": "Sucre / La Paz",
+            "capital": ["Sucre", "La Paz"],
             "poblacion": 12244159,
             "area": 1098585,
             "altitud-max": 6542,
@@ -1179,7 +1179,7 @@
             "altitud-max": 581,
             "paises-colindantes": {
                 "num": 5,
-                "paises": ["Mauritania", "Malí", "Guinea-", "Guinea Bissau", "Gambia"],
+                "paises": ["Mauritania", "Malí", "Guinea", "Guinea-Bisáu", "Gambia"],
                 "no-colindante": "Costa de Marfil"
             },
             "bandera": "https://flagcdn.com/192x144/sn.webp"
@@ -1200,8 +1200,8 @@
         },
         {
             "key": 82,
-            "pais": "Guinea Bissau",
-            "capital": "Bissau",
+            "pais": "Guinea-Bisáu",
+            "capital": "Bisáu",
             "poblacion": 19878352,
             "area": 31120,
             "altitud-max": 300,
@@ -1221,7 +1221,7 @@
             "altitud-max": 1752,
             "paises-colindantes": {
                 "num": 6,
-                "paises": ["Senegal", "Malí", "Sierra Leona", "Guinea Bissau", "Liberia", "Costa de Marfil"],
+                "paises": ["Senegal", "Malí", "Sierra Leona", "Guinea-Bisáu", "Liberia", "Costa de Marfil"],
                 "no-colindante": "Zimbabue"
             },
             "bandera": "https://flagcdn.com/192x144/gn.webp"
@@ -1250,21 +1250,21 @@
             "paises-colindantes": {
                 "num": 3,
                 "paises": ["Guinea", "Sierra Leona", "Costa de Marfil"],
-                "no-colindante": "Guinea Bissau"
+                "no-colindante": "Guinea-Bisáu"
             },
             "bandera": "https://flagcdn.com/192x144/lr.webp"
         },
         {
             "key": 86,
             "pais": "Costa de Marfil",
-            "capital": "Yamusukro / Abiyán",
+            "capital": ["Yamusukro", "Abiyán"],
             "poblacion": 31934230,
             "area": 319490,
             "altitud-max": 1752,
             "paises-colindantes": {
                 "num": 5,
                 "paises": ["Malí", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
-                "no-colindante": "Nigería"
+                "no-colindante": "Nigeria"
             },
             "bandera": "https://flagcdn.com/192x144/ci.webp"
         },
@@ -1313,7 +1313,7 @@
         {
             "key": 90,
             "pais": "Benin",
-            "capital": "Porto Novo / Cotonú",
+            "capital": ["Porto Novo", "Cotonú"],
             "poblacion": 13462724,
             "area": 113760,
             "altitud-max": 658,
@@ -1481,20 +1481,20 @@
         {
             "key": 102,
             "pais": "Sudáfrica",
-            "capital": "Ciudad del Cabo / Pretoria / Bloemfontein",
+            "capital": ["Pretoria", "Ciudad del Cabo", "Bloemfontein"],
             "poblacion": 63212384,
             "area": 1221043,
             "altitud-max": 3450,
             "paises-colindantes": {
                 "num": 6,
-                "paises": ["Lesotho", "Esuatini", "Mozambique", "Zimbabue", "Botsuana", "Namibia"],
+                "paises": ["Lesoto", "Esuatini", "Mozambique", "Zimbabue", "Botsuana", "Namibia"],
                 "no-colindante": "Congo"
             },
             "bandera": "https://flagcdn.com/192x144/za.webp"
         },
         {
             "key": 103,
-            "pais": "Lesotho",
+            "pais": "Lesoto",
             "capital": "Maseru",
             "poblacion": 2311472,
             "area": 30355,
@@ -1509,7 +1509,7 @@
         {
             "key": 104,
             "pais": "Esuatini",
-            "capital": "Lobamba / Mbabane",
+            "capital": ["Lobamba", "Mbabane"],
             "poblacion": 1230506,
             "area": 17363,
             "altitud-max": 1862,
@@ -1628,14 +1628,14 @@
             "paises-colindantes": {
                 "num": 3,
                 "paises": ["Tanzania", "Zambia", "Mozambique"],
-                "no-colindante": "Lesotho"
+                "no-colindante": "Lesoto"
             },
             "bandera": "https://flagcdn.com/192x144/mw.webp"
         },
         {
             "key": 113,
             "pais": "Tanzania",
-            "capital": "Dodoma / Dar es-Salam",
+            "capital": ["Dodoma", "Dar es-Salam"],
             "poblacion": 66617606,
             "area": 945091,
             "altitud-max": 5892,
@@ -1924,7 +1924,7 @@
             "paises-colindantes": {
                 "num": 3,
                 "paises": ["Libia", "Sudán", "Israel"],
-                "no-colindante": "Arabia Saudía"
+                "no-colindante": "Arabia Saudita"
             },
             "bandera": "https://flagcdn.com/192x144/eg.webp"
         }
