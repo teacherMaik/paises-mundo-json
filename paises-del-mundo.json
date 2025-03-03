@@ -1933,7 +1933,7 @@
         {
             "key": 134,
             "pais": "Yemen",
-            "capital": "Saná / Adén",
+            "capital": ["Saná",  "Adén"],
             "poblacion": 37583164,
             "area": 527972,
             "altitud-max": 3666,
@@ -2184,7 +2184,7 @@
         {
             "key": 156,
             "pais": "Tayikistán",
-            "capital": "AstDusambéaná",
+            "capital": "Dusambé",
             "poblacion": 10090927,
             "area": 141960,
             "altitud-max": 7495,
@@ -2338,7 +2338,7 @@
         {
             "key": 167,
             "pais": "Malasia",
-            "capital": "Huala Lampur / Putrajaya",
+            "capital": ["Kuala Lampur", "Putrajaya"],
             "poblacion": 35157673,
             "area": 329550,
             "altitud-max": 4095,
@@ -2593,7 +2593,7 @@
         },
         {
             "key": 185,
-            "pais": "Kiribatia",
+            "pais": "Kiribati",
             "capital": "Tarawa",
             "poblacion": 129518,
             "area": 811,
