@@ -304,7 +304,7 @@
             "paises-colindantes": {
                 "num": 8,
                 "paises": ["Mónaco", "España", "Andorra", "Italia", "Suiza", "Bélgica", "Luxemburgo", "Alemania"],
-                "no-colindante": "España"
+                "no-colindante": "Dinamarca"
             },
             "bandera": "https://flagcdn.com/128x96/fr.webp"
         },
@@ -472,7 +472,7 @@
             "paises-colindantes": {
                 "num": 7,
                 "paises": ["Rusia", "Lituania", "Bielorrusia", "Ucrania", "República Checa", "Alemania", "Eslovaquia"],
-                "no-colindante": "Dinamarca"
+                "no-colindante": "Macedonia del Norte"
             },
             "bandera": "https://flagcdn.com/128x96/pl.webp"
         },
